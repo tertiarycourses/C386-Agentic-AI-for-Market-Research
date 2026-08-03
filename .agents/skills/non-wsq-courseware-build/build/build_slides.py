@@ -573,9 +573,9 @@ def shot(title,img,kicker=None,caption=""):
     footer(s); return s
 def test_slide(act_title,text,kicker):
     s=head(slide(),act_title,kicker,TEAL)
-    rect(s,Inches(0.85),Inches(2.3),Inches(11.7),Inches(2.6),DK_PANEL if THEME["dark"] else RGBColor(0xE8,0xF7,0xEE))
+    rect(s,Inches(0.85),Inches(2.3),Inches(11.7),Inches(3.8),DK_PANEL if THEME["dark"] else RGBColor(0xE8,0xF7,0xEE))
     txt(s,Inches(1.2),Inches(2.6),Inches(11),Inches(0.5),[[("✅  Test it",20,DK_GREEN if THEME["dark"] else RGBColor(0x12,0x7A,0x3E),True)]])
-    txt(s,Inches(1.2),Inches(3.3),Inches(11),Inches(1.4),[[(text,18,_ink(),False)]]); footer(s); return s
+    txt(s,Inches(1.2),Inches(3.3),Inches(11),Inches(2.5),[[(text,18,_ink(),False)]]); footer(s); return s
 def brk(kind,dur,color=AMBER):
     s=slide(); rect(s,0,0,SW,SH,_bg())
     rect(s,0,0,SW,Inches(0.22),color); rect(s,0,Inches(7.28),SW,Inches(0.22),color)
