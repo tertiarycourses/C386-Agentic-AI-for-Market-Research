@@ -1,0 +1,10 @@
+signal_id,source_type,audience_stage,signal,confidence,limitation
+AS-01,synthetic interview summary,Discover,"Operations leaders say AI discussions often start before the process owner and decision are clear",high,"No frequency estimate"
+AS-02,synthetic workshop note,Evaluate,"Leaders want a small workflow example before discussing a broader programme",high,"Example industry not specified"
+AS-03,synthetic question log,Evaluate,"How do we decide which approval step must remain human?",high,"Question does not prove buying intent"
+AS-04,synthetic content note,Engage,"Short decision frameworks are saved and shared more often than broad trend commentary",medium,"Directional observation; no approved numeric claim"
+AS-05,synthetic conversation note,Converse,"A relevant operational question creates better discussion than an immediate meeting request",medium,"Qualitative observation"
+AS-06,synthetic objection log,Decide,"The audience worries about hidden data use and loss of accountability",high,"Concern varies by organisation"
+AS-07,synthetic editorial note,Return,"Readers value follow-up examples that show what changed after a pilot",medium,"No client example is approved for publication"
+AS-08,synthetic owner note,Discover,"The phrase 'autonomous transformation' does not match the brand voice",high,"Applies to this fictional brand only"
+

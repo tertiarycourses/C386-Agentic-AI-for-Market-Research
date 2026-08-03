@@ -1,0 +1,14 @@
+prospect_id,organisation_type,role_context,stated_need,relationship_context,source_id,source_date,consent_or_contact_basis,confidence,risk_flag,owner_note
+P-001,Professional services,Operations Director,"Standardise client onboarding handoffs",Met at an approved industry roundtable,SYN-R01,2026-07-18,"Event follow-up permitted",high,none,"Relevant question was recorded in synthetic event notes"
+P-002,Business services,Founder,"Reduce founder approval bottlenecks",Existing first-degree synthetic connection,SYN-R02,2026-07-10,"Existing professional connection",high,none,"Owner can verify context before drafting"
+P-003,Technology services,Transformation Lead,"Exploring AI use cases",No prior relationship,SYN-R03,2026-04-02,"Public business enquiry channel",medium,stale_source,"Need may no longer be current"
+P-004,Consulting,Marketing Manager,"Increase content reach",Webinar attendee,SYN-R04,2026-07-26,"Event follow-up permitted",high,weak_fit,"Need is marketing distribution rather than operations clarity"
+P-005,Accounting services,Client Service Head,"Inconsistent weekly status reporting",Introduced by synthetic partner,SYN-R05,2026-07-22,"Introduction recorded",high,none,"Potentially strong process fit"
+P-006,Professional services,Managing Partner,"Interested in automation",Unknown,SYN-R06,2026-07-30,"Not recorded",low,missing_contact_basis,"Do not draft until owner verifies a legitimate basis"
+P-007,Recruitment services,Operations Manager,"Duplicate candidate handoffs",Existing first-degree synthetic connection,SYN-R07,2026-07-28,"Existing professional connection",high,do_not_contact,"Synthetic record contains explicit stop"
+P-008,Legal services,Knowledge Lead,"Approval ownership unclear",Met at an approved workshop,SYN-R08,2026-07-19,"Event follow-up permitted",medium,sensitive_context,"Owner must avoid legal advice and confirm relevance"
+P-009,Training provider,Programme Lead,"Course scheduling exceptions are manual",Newsletter subscriber,SYN-R09,2026-07-15,"Content subscription only",medium,channel_mismatch,"Subscription does not itself authorise a LinkedIn message"
+P-010,Facilities services,Operations Head,"No stated need",Existing first-degree synthetic connection,SYN-R10,2026-07-25,"Existing professional connection",low,missing_need,"Ask owner for context; do not invent"
+P-011,Design agency,Founder,"Client briefing revisions are hard to track",Referred by synthetic client,SYN-R11,2026-07-27,"Introduction recorded",high,none,"Verify the referrer may be named"
+P-012,Managed services,Service Delivery Lead,"Wants a pilot decision framework",Downloaded synthetic checklist,SYN-R12,2026-07-29,"Resource request recorded",high,none,"Offer a relevant question or resource; avoid assuming purchase intent"
+
