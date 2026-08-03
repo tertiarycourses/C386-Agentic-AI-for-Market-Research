@@ -248,7 +248,10 @@ for kind,*rest in B:
     if kind=="h1": doc.add_heading(rest[0],level=1)
     elif kind=="h2": doc.add_heading(rest[0],level=2)
     elif kind=="h3":
-        para=doc.add_paragraph(); r=para.add_run(rest[0]); r.bold=True; r.font.size=Pt(11); r.font.color.rgb=BRAND
+        para=doc.add_paragraph()
+        if rest[0] == "What the pack proves":
+            para.paragraph_format.keep_with_next = True
+        r=para.add_run(rest[0]); r.bold=True; r.font.size=Pt(11); r.font.color.rgb=BRAND
     elif kind=="p": doc.add_paragraph(rest[0])
     elif kind=="bullets":
         for x in rest[0]: doc.add_paragraph(x,style="List Bullet")

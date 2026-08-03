@@ -1179,11 +1179,11 @@ Seed checks: R-001 engagement_rate_pct = 3.83%; R-002 engagement_rate_pct = 5.24
    Diagnosis status: SUPPORTED | PLAUSIBLE | WEAK | NOT TESTABLE WITH CURRENT DATA.
    ```
 
-9. Write one bounded experiment card with hypothesis, one variable, baseline, predicted direction, primary metric, guardrails, segment, owner, approval packet, observation window, minimum useful sample, cooldown, stop threshold, and rollback. Complete the decision log, list every final course-pack file, and log each correction in a before/after evidence table.
+9. Complete one bounded experiment card: hypothesis, single variable, baseline and direction, primary metric, guardrails, segment, owner, approval packet, observation window and sample, cooldown, stop threshold, and rollback. Finish the decision log, outputs 01-08 manifest, and before/after correction table.
 
    ```bash
-   Decision: HOLD | APPROVE FOR SMALL HUMAN-RUN PILOT | REVISE | STOP. The lab does not change any live activity.
-| Item | Before | After | Source or reason | Reviewer | Timestamp |
+   Decision: HOLD | HUMAN-RUN PILOT | REVISE | STOP; no live change.
+| Item | Before | After | Reason | Reviewer | Timestamp |
    ```
 
 
