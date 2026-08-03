@@ -111,6 +111,12 @@ if _SETUP:
     if _SETUP.get("conventions"):
         h3("Conventions used in every lab"); bullets(_SETUP["conventions"])
 
+if getattr(C,"REJOIN_PATHS",None):
+    h1("Rejoin Path")
+    p("If you missed an earlier lab, rerun the prerequisite lab or ask the trainer for the matching checkpoint pack. Validate the required files before continuing; never invent or skip a result.")
+    bullets([f"Join at Lab {lab_num} — required: {files}. Validate: {check}"
+             for lab_num,files,check in C.REJOIN_PATHS])
+
 # ---------------- per-topic, per-lab ----------------
 TOPICS_BY_NUM={t["num"]:t for t in C.TOPICS}
 for t in C.TOPICS:

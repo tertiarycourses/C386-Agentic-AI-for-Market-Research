@@ -85,7 +85,7 @@ Risk: LOW = synthetic/read-only; MEDIUM = internal draft or classification; HIGH
 Statuses: DRAFT | READY FOR HUMAN REVIEW | APPROVED BY <ROLE> | STOP - <REASON>. Silence is never approval.
 ```
 
-**9. Complete the Review Log with three AI-output corrections and the fixed source checks AS-01, the Approved Offer section, and the unsupported '10x' headline claim. Preserve expected and observed values plus the action taken.**
+**9. Complete the three fixed Review Log checks: AS-01, the Approved Offer section, and the unsupported '10x' headline claim. Correct any mismatch you observe; do not invent three corrections when a checked result is already accurate. Preserve expected and observed values plus the action taken.**
 
 ```text
 | Item checked | Source | Expected | Observed | Result | Correction |

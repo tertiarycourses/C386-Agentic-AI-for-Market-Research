@@ -43,10 +43,10 @@ File: C386-linkedin-pack/04-content-calendar-and-workflow.md
 Sequence sentence: If the audience sees <ITEMS IN ORDER>, it can move from <INITIAL QUESTION> to <USEFUL DECISION> without requiring a sales claim.
 ```
 
-**3. Ask the AI to propose a fourteen-day calendar using only the six reviewed content artefacts plus two explicitly labelled engagement-listening days. An engagement-listening day is an internal simulation: review the supplied synthetic scenarios, capture questions, and recommend a future draft; do not open LinkedIn, comment, react, message, or perform any live action. Require content pillar, audience stage, objective, source, format, owner, review date, planned date, next action, and metric.**
+**3. Ask the AI to propose a fourteen-day calendar using only POST-01 through POST-04, ART-01, and CAR-01 plus two explicitly labelled engagement-listening days. Pin POST-01 to Day 2, CAR-01 to Day 7, and ART-01 to Day 12 so the fixed readiness fixtures always exist. An engagement-listening day is an internal simulation: review supplied synthetic scenarios, capture questions, and recommend a future draft; do not open LinkedIn, comment, react, message, or perform any live action. Require content ID, pillar, audience stage, objective, source, format, owner, review date, planned date, next action, and metric.**
 
 ```text
-Constraint: no new claims or new content ideas may be added silently; proposed additions must be HYPOTHESIS and require owner approval. Engagement-listening rows use format SIMULATED REVIEW and state NO LIVE LINKEDIN ACTION.
+Fixed fixtures: Day 2 = POST-01; Day 7 = CAR-01; Day 12 = ART-01. Constraint: no new claim or idea may be added silently; additions must be HYPOTHESIS and require owner approval. Engagement-listening rows use format SIMULATED REVIEW and state NO LIVE LINKEDIN ACTION.
 ```
 
 **4. Review pacing and dependencies. Avoid repeating the same pillar or format on consecutive release days, protect production capacity, and leave space to respond to relevant discussion.**

@@ -525,19 +525,19 @@ LG_NEXT_STEPS = [
 ]
 
 LG_GLOSSARY = [
-    ("Agent", "A system that uses a model, tools, and instructions to manage a multi-step goal within defined guardrails."),
-    ("Approval gate", "A workflow stop where a named person reviews evidence and decides whether an external action may proceed."),
-    ("Content pillar", "A repeatable subject area that connects audience needs, brand expertise, and business relevance."),
-    ("Evidence boundary", "The rule that separates approved facts, supported inference, and unknown information."),
-    ("Engagement rate", "A defined set of interactions divided by a stated denominator, usually impressions, multiplied by 100."),
-    ("G-C-A-T-E", "Goal, Context, Audience, Task, Evidence, and Evaluation - a reusable prompt-contract structure."),
-    ("Human-in-the-loop", "A design in which a person reviews or decides before a consequential action."),
-    ("Impressions", "LinkedIn's estimate of the number of times a post was shown."),
+    ("Agent", "A model-based system that manages a multi-step goal within defined guardrails."),
+    ("Approval gate", "A named person's evidence review before an external action may proceed."),
+    ("Content pillar", "A repeatable subject connecting audience needs, expertise, and relevance."),
+    ("Evidence boundary", "The rule separating approved facts, supported inference, and unknowns."),
+    ("Engagement rate", "Defined interactions divided by a stated denominator, multiplied by 100."),
+    ("G-C-A-T-E", "Goal, Context, Audience, Task, Evidence, and Evaluation - a reusable prompt structure."),
+    ("Human-in-the-loop", "A design where a person reviews or decides before a consequential action."),
+    ("Impressions", "LinkedIn's estimate of how many times a post was shown."),
     ("Members reached", "LinkedIn's estimate of distinct members and Pages that saw a post."),
-    ("Nurture sequence", "A bounded series of relevant, value-adding contacts with explicit stop conditions."),
-    ("Personalisation", "The use of verified and appropriate context to make communication relevant without fabricating familiarity."),
-    ("Rollback", "The predefined response that returns a workflow to a safe state after an unwanted result."),
-    ("Voice fingerprint", "A documented description of vocabulary, rhythm, stance, examples, and boundaries that characterise a person's writing."),
+    ("Nurture sequence", "A bounded series of relevant contacts with explicit stop conditions."),
+    ("Personalisation", "Verified, appropriate context used without fabricating familiarity."),
+    ("Rollback", "A predefined response that returns a workflow to a safe state."),
+    ("Voice fingerprint", "A record of vocabulary, rhythm, stance, examples, and writing boundaries."),
 ]
 
 NEXT_STEPS = dict(

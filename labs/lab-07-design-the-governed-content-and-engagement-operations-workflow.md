@@ -98,7 +98,7 @@ Keep the workflow and trace schema. Lab 8 uses them to validate performance data
 
 - **The workflow diagram has arrows but no decisions:** Add entry criteria, owner, evidence, decision options, and failure path to every state transition.
 - **The approval packet contains only the draft:** Add goal, audience, sources, versions, checks, unknowns, risk, proposed action, owner, and correction path.
-- **The engagement router drafts a reply to every row:** Introduce WAIT, STOP, and ESCALATE; require sufficient context and separate relationship, privacy, complaint, and sensitive cases.
+- **The engagement router drafts a reply to every row:** Use DRAFT RESPONSE, WAIT, or STOP as the safe state; record any ESCALATE TO <OWNER> action separately. Require sufficient context and separate relationship, privacy, complaint, and sensitive cases.
 
 ## Optional Challenge (+10 minutes, outside core duration)
 

@@ -79,15 +79,16 @@ Article purpose: help operations leaders decide when a process is ready for AI-s
 Pages: 1 promise | 2 problem | 3 framework | 4 worked example | 5 checklist | 6 next step.
 ```
 
-**9. Run the evidence, voice, privacy, rights, relevance, and action-boundary checks. Add a Review Log with at least one substantive human rewrite and one rejected AI suggestion.**
+**9. Run the evidence, voice, privacy, rights, relevance, and action-boundary checks. Record a distinct human edit for exactly eight named artefacts: the selected headline, About draft, four short posts, article outline, and carousel brief. Also record at least one rejected AI suggestion.**
 
 ```text
-| Artefact | Check | Source or rule | Result | Human change | Status |
+| Artefact ID | Artefact | Check | Source or rule | Human edit | Rejected AI suggestion if any | Status |
+Required artefacts: HEADLINE-SELECTED | ABOUT-01 | POST-01 | POST-02 | POST-03 | POST-04 | ART-01 | CAR-01
 ```
 
 ## Test It
 
-Open 03-profile-voice-and-content-kit.md. It must contain eight voice dimensions, three headline options, one About draft, four complete post drafts, an article outline, and a six-page carousel brief. Every factual claim must map to an approved source or be removed, each draft must contain a documented human edit, and no item may be marked for publication.
+Open 03-profile-voice-and-content-kit.md. It must contain eight voice dimensions, three headline options, one About draft, four complete post drafts, an article outline, and a six-page carousel brief. Every factual claim must map to an approved source or be removed. The selected headline, About draft, POST-01 through POST-04, ART-01, and CAR-01 must each contain a documented human edit, and no item may be marked for publication.
 
 ## Checkpoint for the Next Lab
 

@@ -31,11 +31,12 @@ C386-linkedin-pack/08-performance-diagnosis-and-improvement.md plus C386-linkedi
 
 ## Steps
 
-**1. Create the analysis file and cleaned metric table. Use the exact CSV schema below so dispositions, counts, rates, and caveats remain reviewable.**
+**1. Create the analysis file and cleaned metric table. Use the exact CSV schema below so duplicate instances, comparison dimensions, dispositions, counts, rates, and caveats remain reviewable.**
 
 ```text
 Files: C386-linkedin-pack/08-performance-diagnosis-and-improvement.md and C386-linkedin-pack/08-cleaned-performance-metrics.csv
-CSV columns: source_row_id,disposition,issue,impressions,members_reached,interactions,engagement_rate_pct,profile_view_rate_pct,follower_rate_pct,messages_sent,replies,reply_rate_pct,qualified_conversations,qualified_conversation_rate_pct,owned_outcomes,outcome_rate_pct,caveat
+CSV columns: row_instance_id,source_record_id,date,content_type,pillar,audience_stage,disposition,issue,impressions,members_reached,interactions,engagement_rate_pct,profile_view_rate_pct,follower_rate_pct,messages_sent,replies,reply_rate_pct,qualified_conversations,qualified_conversation_rate_pct,owned_outcomes,outcome_rate_pct,caveat
+row_instance_id must be unique even when source_record_id repeats; use distinct IDs such as ROW-010A and ROW-010B for the duplicate R-010 records.
 Markdown sections: Decision Question | Metric Dictionary | Data Quality | Calculations | Funnel | Diagnosis | Alternatives | Experiment Card | Decision Log | Pack Manifest
 ```
 
@@ -97,7 +98,7 @@ Decision: HOLD | APPROVE FOR SMALL HUMAN-RUN PILOT | REVISE | STOP. The lab does
 
 ## Test It
 
-Open 08-performance-diagnosis-and-improvement.md and 08-cleaned-performance-metrics.csv. Verify R-001 engagement 3.83%, R-002 engagement 5.24%, and R-009 reply rate 33.33%; R-010 duplicate, R-011 impossible reach, and R-012 missing denominator must carry explicit dispositions, and blank or zero denominators must return N/A. The diagnosis must state alternatives and limitations, and the experiment must change exactly one variable with an owner, primary metric, two guardrails, observation window, cooldown, stop threshold, and rollback. The course-pack manifest must list outputs 01 through 08.
+Open 08-performance-diagnosis-and-improvement.md and 08-cleaned-performance-metrics.csv. Verify R-001 engagement 3.83%, R-002 engagement 5.24%, and R-009 reply rate 33.33%; the two R-010 instances must have distinct row_instance_id values and explicit duplicate dispositions, while R-011 impossible reach and R-012 missing denominator must carry explicit dispositions, and blank or zero denominators must return N/A. The diagnosis must state alternatives and limitations, and the experiment must change exactly one variable with an owner, primary metric, two guardrails, observation window, cooldown, stop threshold, and rollback. The course-pack manifest must list outputs 01 through 08.
 
 ## Checkpoint for the Next Lab
 

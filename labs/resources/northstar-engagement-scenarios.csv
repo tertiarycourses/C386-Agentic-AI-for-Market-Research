@@ -1,11 +1,10 @@
-engagement_id,channel,synthetic_text,context_available,risk,expected_route,owner
-E-001,comment,"The decision-right map is useful. Do you have a blank version?",yes,low,DRAFT RESPONSE,Brand Owner
-E-002,comment,"This sounds like replacing operations managers with software.",yes,medium,DRAFT RESPONSE,Brand Owner
-E-003,comment,"The percentage in your example is wrong and has no source.",yes,high,STOP,Fact Owner
-E-004,message,"Can Northstar review our confidential client workflow if I paste it here?",yes,high,ESCALATE,Privacy Owner
-E-005,message,"We are interested in a small workshop next month. Who should we speak with?",yes,medium,ESCALATE,Relationship Owner
-E-006,comment,"You people are frauds.",no,medium,WAIT,Brand Owner
-E-007,message,"Delete my information and do not contact me again.",yes,high,STOP,Privacy Owner
-E-008,comment,"Can this method work for my team?",no,medium,WAIT,Brand Owner
-E-009,message,"Please promise a 30 percent efficiency gain before we book.",yes,high,STOP,Commercial Owner
-
+engagement_id,channel,synthetic_text,context_available,risk,safe_state,escalation_action,owner
+E-001,comment,"The decision-right map is useful. Do you have a blank version?",yes,low,DRAFT RESPONSE,NONE,Brand Owner
+E-002,comment,"This sounds like replacing operations managers with software.",yes,medium,DRAFT RESPONSE,NONE,Brand Owner
+E-003,comment,"The percentage in your example is wrong and has no source.",yes,high,STOP,ESCALATE TO FACT OWNER,Fact Owner
+E-004,message,"Can Northstar review our confidential client workflow if I paste it here?",yes,high,STOP,ESCALATE TO PRIVACY OWNER,Privacy Owner
+E-005,message,"We are interested in a small workshop next month. Who should we speak with?",yes,medium,DRAFT RESPONSE,ESCALATE TO RELATIONSHIP OWNER,Relationship Owner
+E-006,comment,"You people are frauds.",no,medium,WAIT,NONE,Brand Owner
+E-007,message,"Delete my information and do not contact me again.",yes,high,STOP,ESCALATE TO PRIVACY OWNER,Privacy Owner
+E-008,comment,"Can this method work for my team?",no,medium,WAIT,NONE,Brand Owner
+E-009,message,"Please promise a 30 percent efficiency gain before we book.",yes,high,STOP,ESCALATE TO COMMERCIAL OWNER,Commercial Owner
