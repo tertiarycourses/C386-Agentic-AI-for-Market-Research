@@ -1,0 +1,351 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 4674
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48 771.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL (Activity 03 \267 Competitor Triangulation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 751.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (C386 \267 v1.0 \267 Synthetic training data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 739.8898 cm
+Q
+q
+1 0 0 1 48 709.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 675.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (The provider compares three fictional competitors. Advertised prices, course hours and learner-review counts) Tj T* (must be normalised before Cowork can recommend a positioning gap.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 670.8898 cm
+Q
+q
+1 0 0 1 48 640.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Before you start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 606.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Use a copied activity folder,Claude Cowork or Claude Code as specified,and a spreadsheet or Python3 for) Tj T* (independent checks. No production credentials are needed. Product access varies;CSV fallback remains valid.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 601.8898 cm
+Q
+q
+1 0 0 1 48 571.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mock data and assets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 551.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (mock-data/competitors.csv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 546.8898 cm
+Q
+q
+1 0 0 1 48 518.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (All named customers,competitors,campaigns and values are fictional. Assets include brand,source,measurement) Tj T* (and decision contracts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 513.8898 cm
+Q
+q
+1 0 0 1 48 483.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mechanism) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 449.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Match comparable features, units and retrieval dates; distinguish vendor claim from independent evidence;) Tj T* (triangulate one claim with two source types before promoting it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 444.8898 cm
+Q
+q
+1 0 0 1 48 416.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Digital Marketing\222s competitive positioning approach is operationalised as matched-offer normalisation and) Tj T* (source triangulation; third-party AI-research vendor claims are not validation evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 411.8898 cm
+Q
+q
+1 0 0 1 48 381.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Worked calculation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 347.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Price per hour: 480/8 = $60; 720/16 = $45; 600/12 = $50. The cheapest total price is not the cheapest hourly) Tj T* (offer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 342.8898 cm
+Q
+q
+1 0 0 1 48 312.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 292.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (1. Inspect competitors.csv and identify SGD, hours and review count units.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 287.8898 cm
+Q
+q
+1 0 0 1 48 273.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (2. Read assets/offer-boundaries.md and list features excluded from price comparison.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 268.8898 cm
+Q
+q
+1 0 0 1 48 254.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (3. Use Cowork on the copied folder and paste Prompt 1.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 249.8898 cm
+Q
+q
+1 0 0 1 48 235.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (4. Request a competitor matrix with a calculated sgd_per_hour column.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 230.8898 cm
+Q
+q
+1 0 0 1 48 216.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (5. Verify $60, $45 and $50 by hand or spreadsheet.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 211.8898 cm
+Q
+q
+1 0 0 1 48 197.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (6. Ask Prompt 2 to challenge rating-based rankings using review volume.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 192.8898 cm
+Q
+q
+1 0 0 1 48 178.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (7. Write one positioning hypothesis and the primary evidence needed to test it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 173.8898 cm
+Q
+q
+1 0 0 1 48 159.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (8. Save the matrix and positioning note under outputs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 154.8898 cm
+Q
+q
+1 0 0 1 48 124.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Prompt1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 76.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (Compare these fictional competitors. Calculate SGD per hour, preserve claim_id and review_n, separate) Tj T* (advertised facts from inferred positioning, and recommend one hypothesis to test rather than asserting market) Tj T* (leadership.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 71.88976 cm
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 907
+>>
+stream
+Gat=)?#SF^&:EYBlsj3rf*5_)jf(rnV.s#,$%H?2?Js!%cFj_js1Wh,JMn-YKok5$n)e4pAsWp(rabu:BE14Ki;Hpcf`W'`aRUU3`AdS))#Y@acR8;sk4;_RQIdG?i'Q-6ltXI_ZQgGsC`$p(+?`[AJZ^&qBj*`H",ieUGT23`nE4`Z4SpLN6u*9#df[u=rH=/mO^8Xp2*l#WP9r8njFZq/gdtd=:"hF%UGit0>%?AJBG]CR=ALd[KsG^Y8tm96<d#nb@&;U;5e\3pm77@DpsR!D2b$)EK!*KnEXCMn:I$uU*j"&3QVS+dWMLk?F7kYU\H>&hnP.Y.^G`o\e/`6Voa5I+QjcSD/WLIW/u?O@epJ$\>)ui@qbFFjJqc6!o?!geh4%g&T)Fe'*#.WsT8dLJ%Bt+/N$UNpcq>`gc'h9H'VY-V[t\0"A3EQPpY\/[C03H>"$2`C<q:s5XBWmABNC0U-uDi*cUh>7k8-a;LJe:KI=s-XduiGsP";JeO+>n%])dU#.0oT\3L[C;>D%)dr`Kt<nfS!#Ss3Wf:L/[775GiQY1B+K%KUEV@LqSAr?W9,)&8TM4Kb-gc;ZMWVufHU*OWtuV"TFUc`YH4C<u&,V&DJ%`0No]<t1@l'S0C>\`_G+p>%]/L3qlnUBJ:ES+<)]V%d5SNN.aV06pVY*bjk`M*18c+krQV%sk"q<]_@1k?2&=N"M;3U91YBrI@890K9r\GhVt%;2X%0;5T[4hPX1-dLSO2rAXF#]h^,kCX?:r98)VWM-K"NP`iG!V[_tIeAE!KF.MLU`TuXm4&/'1D=Gpu*X9``n<?=rKPC/eHmNNq0H@M_'8FT:?S:lqFtEl%BMBLlX(.b3(OlOj/H1.WS$C`IfI7VVS<ePq6EqCb4J2YaF("VZ$sF@\~>
+endstream
+endobj
+10 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260913100337\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260913100337\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (\050anonymous\051)
+/Trapped /False
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000005073 00000 n 
+0000005114 00000 n 
+0000005221 00000 n 
+0000005333 00000 n 
+0000005532 00000 n 
+0000006530 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+/ID [ <4ae22201060ad68460b1ecb01dc506a6> <4ae22201060ad68460b1ecb01dc506a6> ]
+>>
+startxref
+6855
+%%EOF

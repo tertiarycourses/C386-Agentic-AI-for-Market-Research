@@ -1,0 +1,1 @@
+Exactly four logical inputs:mock-data/traffic.csv;mock-data/campaign.csv;assets/brand-guide.md;assets/external-note.md. campaign-files.csv is the control manifest. Guides,prompts,source lists and code are excluded from four-input coverage counts. F01-F03 approved;F04 untrusted/quarantined.

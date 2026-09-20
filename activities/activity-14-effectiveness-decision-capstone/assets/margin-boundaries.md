@@ -1,0 +1,1 @@
+Gross contribution=attributed revenue×gross margin rate-media spend. This excludes fixed overhead,unlisted channel costs and causal adjustment. Zero allocated Direct spend does not mean acquisition is free.

@@ -1,0 +1,15 @@
+{
+  "event_names": [
+    "generate_lead",
+    "page_view",
+    "purchase",
+    "view_item"
+  ],
+  "purchase_required_fields": [
+    "currency",
+    "items",
+    "transaction_id",
+    "value"
+  ],
+  "live_collection_executed": false
+}

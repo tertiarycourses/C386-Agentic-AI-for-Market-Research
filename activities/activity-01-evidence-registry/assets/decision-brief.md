@@ -1,0 +1,1 @@
+Decision:investigate an evening AI marketing programme for Singapore working learners. Population:target prospects,not only existing customers. Horizon:next quarter. Budget changes require human approval.

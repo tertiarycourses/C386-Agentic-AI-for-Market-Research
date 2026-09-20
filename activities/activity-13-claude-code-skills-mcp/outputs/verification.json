@@ -1,0 +1,16 @@
+{
+  "channel_lead_rates": {
+    "Paid search": 0.05,
+    "Organic": 0.04,
+    "Email": 0.08,
+    "Direct": 0.01
+  },
+  "overall": 0.04,
+  "source_ids": [
+    "M01",
+    "M02",
+    "M03",
+    "M04"
+  ],
+  "transport": "local_csv_baseline"
+}

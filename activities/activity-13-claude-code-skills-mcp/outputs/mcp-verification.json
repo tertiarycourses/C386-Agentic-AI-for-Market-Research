@@ -1,0 +1,50 @@
+{
+  "transport": "actual_local_stdio_jsonrpc",
+  "responses": [
+    {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "result": {
+        "protocolVersion": "2024-11-05",
+        "capabilities": {
+          "tools": {}
+        },
+        "serverInfo": {
+          "name": "synthetic-market-metrics",
+          "version": "1.0.0"
+        }
+      }
+    },
+    {
+      "jsonrpc": "2.0",
+      "id": 2,
+      "result": {
+        "tools": [
+          {
+            "name": "read_synthetic_metrics",
+            "description": "Read four fictional channel metric rows;read-only,no network.",
+            "inputSchema": {
+              "type": "object",
+              "properties": {},
+              "additionalProperties": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "jsonrpc": "2.0",
+      "id": 3,
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"synthetic\": true, \"source\": \"mock-data/tool-results.csv\", \"rows\": [{\"channel\": \"Paid search\", \"sessions\": \"600\", \"leads\": \"30\", \"source_id\": \"M01\"}, {\"channel\": \"Organic\", \"sessions\": \"900\", \"leads\": \"36\", \"source_id\": \"M02\"}, {\"channel\": \"Email\", \"sessions\": \"300\", \"leads\": \"24\", \"source_id\": \"M03\"}, {\"channel\": \"Direct\", \"sessions\": \"600\", \"leads\": \"6\", \"source_id\": \"M04\"}]}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  ],
+  "live_account_connected": false
+}

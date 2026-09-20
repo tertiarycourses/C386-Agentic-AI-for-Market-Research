@@ -1,0 +1,17 @@
+{
+  "raw_purchase_value": 2100.0,
+  "accepted_value": 1100.0,
+  "quarantine": [
+    {
+      "event_id": "E02",
+      "reason": "duplicate",
+      "value": 600.0
+    },
+    {
+      "event_id": "E04",
+      "reason": "missing_id",
+      "value": 400.0
+    }
+  ],
+  "live_ga4_test_executed": false
+}

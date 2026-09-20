@@ -1,0 +1,18 @@
+{
+  "segment_rates": {
+    "New enquiry": {
+      "click_rate": 0.2,
+      "enrolment_per_sent": 0.05
+    },
+    "Qualified lead": {
+      "click_rate": 0.3,
+      "enrolment_per_sent": 0.15
+    },
+    "Past learner": {
+      "click_rate": 0.2,
+      "enrolment_per_sent": 0.1
+    }
+  },
+  "send_authorised": false,
+  "incremental_effect_estimated": false
+}

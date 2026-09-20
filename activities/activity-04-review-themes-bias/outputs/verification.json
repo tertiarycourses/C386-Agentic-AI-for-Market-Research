@@ -1,0 +1,50 @@
+{
+  "coded_rows": [
+    {
+      "review_id": "R01",
+      "theme": "timing",
+      "mixed": false
+    },
+    {
+      "review_id": "R02",
+      "theme": "relevance",
+      "mixed": false
+    },
+    {
+      "review_id": "R03",
+      "theme": "support",
+      "mixed": false
+    },
+    {
+      "review_id": "R04",
+      "theme": "timing",
+      "mixed": false
+    },
+    {
+      "review_id": "R05",
+      "theme": "relevance",
+      "mixed": false
+    },
+    {
+      "review_id": "R06",
+      "theme": "support",
+      "mixed": false
+    },
+    {
+      "review_id": "R07",
+      "theme": "timing",
+      "mixed": false
+    },
+    {
+      "review_id": "R08",
+      "theme": "relevance",
+      "mixed": true
+    }
+  ],
+  "theme_counts": {
+    "timing": 3,
+    "relevance": 3,
+    "support": 2
+  },
+  "limitation": "Rule baseline;human review and volunteer selection bias remain"
+}

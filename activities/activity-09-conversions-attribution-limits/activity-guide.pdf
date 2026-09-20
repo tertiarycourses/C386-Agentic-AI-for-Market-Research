@@ -1,0 +1,350 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 4712
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48 771.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL (Activity 09 \267 Conversions and Attribution Limits) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 751.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (C386 \267 v1.0 \267 Synthetic training data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 739.8898 cm
+Q
+q
+1 0 0 1 48 709.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 675.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Four synthetic conversion journeys include paid search, organic search, email and direct visits. Comparing first) Tj T* (and last touch illustrates attribution sensitivity without pretending to reproduce GA4 data-driven attribution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 670.8898 cm
+Q
+q
+1 0 0 1 48 640.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Before you start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 606.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Use a copied activity folder,Claude Cowork or Claude Code as specified,and a spreadsheet or Python3 for) Tj T* (independent checks. No production credentials are needed. Product access varies;CSV fallback remains valid.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 601.8898 cm
+Q
+q
+1 0 0 1 48 571.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mock data and assets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 551.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (mock-data/touchpoints.csv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 546.8898 cm
+Q
+q
+1 0 0 1 48 518.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (All named customers,competitors,campaigns and values are fictional. Assets include brand,source,measurement) Tj T* (and decision contracts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 513.8898 cm
+Q
+q
+1 0 0 1 48 483.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mechanism) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 449.8898 cm
+q
+BT 1 0 0 1 0 18 Tm -0.059026 Tw 14 TL /F1 10 Tf 0 0 0 rg (Define eligible channels and lookback -) Tj (> order touches -) Tj (> choose allocation model -) Tj (> reconcile totals -) Tj (> compare) Tj T* 0 Tw (sensitivity -) Tj (> distinguish attribution from lift.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 444.8898 cm
+Q
+q
+1 0 0 1 48 416.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Current Google attribution documentation supports separating allocated credit from incrementality.) Tj T* (First/last-touch examples are authored external models,not a reproduction of GA4\222s data-driven model.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 411.8898 cm
+Q
+q
+1 0 0 1 48 381.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Worked calculation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 347.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (First-touch paid search revenue = $1200; last-touch = $0. Email receives $700 first-touch and $1300 last-touch.) Tj T* (Model choice changes assigned credit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 342.8898 cm
+Q
+q
+1 0 0 1 48 312.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 292.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (1. Inspect touchpoints.csv and confirm four journey IDs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 287.8898 cm
+Q
+q
+1 0 0 1 48 273.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (2. Read assets/model-boundaries.md and define first/last touch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 268.8898 cm
+Q
+q
+1 0 0 1 48 254.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (3. Use Cowork Prompt 1 for channel allocations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 249.8898 cm
+Q
+q
+1 0 0 1 48 235.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (4. Verify each model sums to $2400.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 230.8898 cm
+Q
+q
+1 0 0 1 48 216.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (5. Compare paid and email allocation changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 211.8898 cm
+Q
+q
+1 0 0 1 48 197.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (6. Ask Prompt 2 to challenge a recommendation to cut paid search.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 192.8898 cm
+Q
+q
+1 0 0 1 48 178.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (7. Describe one feasible lift experiment and its outcome metric.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 173.8898 cm
+Q
+q
+1 0 0 1 48 159.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (8. Save comparison and limitations under outputs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 154.8898 cm
+Q
+q
+1 0 0 1 48 124.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Prompt1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 76.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (Compare first-touch and last-touch attribution for four synthetic journeys. Reconcile each model to $2400.) Tj T* (Explain why this does not implement GA4 data-driven attribution or estimate incremental lift. Propose a safer) Tj T* (budget decision.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 71.88976 cm
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 915
+>>
+stream
+Gat=)gMRoa&:N^ljrk7LPu*btYUE:=RRg:+[8#ii)".H']XHi.KRS?i-:Ka@Rg?+rBg"Y$k006eJ0$pDrg"#/o`RJ7'i=O214u=fQ8&+A\!,*9Vg+%L.i=6Mh5VApI"MrUq7t6:I(.bEn\p6Vq@&O\WW[G?h3l9;rWehgK#u%9r.CVk_9:h4n:]A/M>"AG1]#?_."uu-&/GQ&iJL>$i6Xt/\o:0NL)RI68;gjqTQA-KZ`&;Zf!p5f80t5)B2]HBbW8o6\H,3Lks=h#W::a:jM8MFS-EI;9MO$EE.kq52\Zhm=i^TgXPs/b#>R-$<&L:30IOWsk:l"N22-a@!D'Cj#L[[l71e9UM(XNEM-_:sL.A]78kQHVBZ]UB`%jo#j"RRkS`j(?Y"`"`@qnuB2:?/0MA7jbdP#s\9<a"_f$!l.*__e+3%=^g4Z7m+.'`OG,/)S4Uki>*GkcHsD.'Dj_l>\lhJhtmp\qAQ*HR,KZV+1n.s.7]'#j':QVZ6q@a89\G,!m:j\\!<A;Wqbg_WOCXGPcpiAWgHKe)W6-`>Rt-^.7HdN$dk,&9`/c.9k388dU@;ias=_9Pe6omu6LOO<GV(]?]^&$#3Ql@3i"+p:EbQl*VtLT<lt*SE\.5#]VF9^WOV'^W$]%'PARLXMol<+d8oXNZp2pYm5`Tt0k7EDM^f"?;mE$p;G:cW61(TJk^qetc'))`D=XRnoSHW[_ME;^%L#W1f;%q,Y<9U[^Xdb41V6I#M"LhO:nQDX:H<f^$GcjMfC`d'G0s?Y'9/N1]Q?hph$]b!Yigj0uMB!Q.#,Fp0O$RtcVRY?mfS[;jBsC8J2)/poslbS[e34h40(DJO!)$<f*=#K]#*8"L-\N`8[JNGLNPHf1Bmg`3bD$[[rD(^D;o['mXfn*_LbquPnQ'j:~>
+endstream
+endobj
+10 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260913100337\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260913100337\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (\050anonymous\051)
+/Trapped /False
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000005111 00000 n 
+0000005152 00000 n 
+0000005259 00000 n 
+0000005371 00000 n 
+0000005570 00000 n 
+0000006576 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+/ID [ <02ba1af0f62c523fd03f46faa832d614> <02ba1af0f62c523fd03f46faa832d614> ]
+>>
+startxref
+6901
+%%EOF

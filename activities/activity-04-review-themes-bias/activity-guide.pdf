@@ -1,0 +1,350 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 4803
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48 771.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL (Activity 04 \267 Review Themes and Bias) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 751.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (C386 \267 v1.0 \267 Synthetic training data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 739.8898 cm
+Q
+q
+1 0 0 1 48 709.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 675.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Eight fictional course reviews mention timing, relevance and support. An agent must code textual evidence) Tj T* (without inventing customer identities or treating volunteered reviews as a representative survey.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 670.8898 cm
+Q
+q
+1 0 0 1 48 640.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Before you start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 606.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Use a copied activity folder,Claude Cowork or Claude Code as specified,and a spreadsheet or Python3 for) Tj T* (independent checks. No production credentials are needed. Product access varies;CSV fallback remains valid.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 601.8898 cm
+Q
+q
+1 0 0 1 48 571.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mock data and assets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 551.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (mock-data/reviews.csv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 546.8898 cm
+Q
+q
+1 0 0 1 48 518.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (All named customers,competitors,campaigns and values are fictional. Assets include brand,source,measurement) Tj T* (and decision contracts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 513.8898 cm
+Q
+q
+1 0 0 1 48 483.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mechanism) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 449.8898 cm
+q
+BT 1 0 0 1 0 18 Tm 14 TL /F1 10 Tf 0 0 0 rg (Define codebook -) Tj (> quote evidence -) Tj (> assign theme -) Tj (> review disagreement -) Tj (> count -) Tj (> qualify interpretation.) Tj T* (Keep negation and mixed sentiment visible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 444.8898 cm
+Q
+q
+1 0 0 1 48 402.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (Columbia research cautions that generated respondents may compress response variation and exhibit prompt) Tj T* (sensitivity. These real-text synthetic training rows test coding mechanics; synthetic personas cannot replace a) Tj T* (target-population sample.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 397.8898 cm
+Q
+q
+1 0 0 1 48 367.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Worked calculation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 333.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Timing mentions = 3/8 = 37.5%; relevance = 3/8; support = 2/8. These are coded mentions, not sentiment scores) Tj T* (or market prevalence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 328.8898 cm
+Q
+q
+1 0 0 1 48 298.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 278.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (1. Read reviews.csv and assets/codebook.md without inspecting theme_reference as an answer shortcut.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 273.8898 cm
+Q
+q
+1 0 0 1 48 259.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (2. Copy the text and IDs to a working CSV; keep theme_reference only for later verification.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 254.8898 cm
+Q
+q
+1 0 0 1 48 240.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (3. Ask Cowork Prompt 1 for evidence-linked coding.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 235.8898 cm
+Q
+q
+1 0 0 1 48 221.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (4. Review R06 negation and R08 mixed wording manually.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 216.8898 cm
+Q
+q
+1 0 0 1 48 202.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (5. Calculate theme counts from the coded rows and confirm total equals eight.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 197.8898 cm
+Q
+q
+1 0 0 1 48 183.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (6. Compare results with the reference categories; document disagreements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 178.8898 cm
+Q
+q
+1 0 0 1 48 164.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (7. Use Prompt 2 to explain volunteer-review selection bias.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 159.8898 cm
+Q
+q
+1 0 0 1 48 145.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (8. Save coded data and a bounded theme memo in outputs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 140.8898 cm
+Q
+q
+1 0 0 1 48 110.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Prompt1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 62.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (Code the eight synthetic reviews using the supplied codebook. Preserve review_id, include a short evidence) Tj T* (quote, theme and mixed-sentiment flag. Explain selection bias. Do not infer demographics or invent additional) Tj T* (reviews.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 57.88976 cm
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 899
+>>
+stream
+Gat=(gMY_1&:N^lk-;&(`Pd9=:MlOk<ElFskQ`ZNK0>3<f@^Ob^[J6qBH%[66C*SSmbH)JF)i,hPBUrE!C![ErH/VG"BHJ_Ml_HZ=1DECmK`RJc(]meI%$>^U>uSD(j?4f)K9MA9ZM^Q;b]5CQ`<`9hL'NJ[pehC<ki&8/g^M5cbIS[r5I_GRm&Yi4uCu)^T9lQTW&JhNR0`AP)UM&qUgH0Y/r(gBWNO*JouUh=m(Rfpt3%+"]QT`6.uk$,lFlhZk[TlNr5FQ_84OW"3S\$T-edrXDM?^UJ\l?q@"u*+Q.m6!M%u^k>*//e:t2)I!W[nq*TWA;bbnAW,2r.ArA!tWBc:_Z<i>>Ak.ZK+,soG;Y*1HCkFF)]AF7=,dFP.=o%>LcWIcQWb-(W#ThoD(^(^U9=TL;9MRIXi'/19VJ_,%GbesY2rbN-4YT\+;)H4a\g;U8.0E^/8ut=r)1kE:]bo&;r"Omll,sG35DIdARcq!)MF2*ekk;\ajR[H#StI2:Rmr']$m+^^=D4h75[.bq=A,)i+I]+0WWigg`SPgm@i7AM6M.KLmajm7UWVM!L[C^9K;_oJ8$RDWKbLQV,Q.KWkEAg]:WqbQaa`m\pc>O;_GLq\8=_0#.6-0F^BDf%8s2dS3+<b6"!T3q`L7\Pq^'aD+VIUA/^0CkKjI[mP@"UaWA4b[^H@OZ//XkbFG#UU`<Omunr$\IU<"Af8GZXPVXqbu3/Y\CP.Q]hepD>gafBJI6X!ZIC3783B@:][@C(D>N\kL?C"6S#3&PWZGhG5Td!qOpA&E+mn4X(r_eZK_mOhY?[-^&008M3h$4!nL-V2alBTat:V-Qg$:)p:T-7q:InEH9.h6>^VA=Bj:G2tl6Ap_E3ejA6ddTe@&Fqtqm#%4tEa8~>
+endstream
+endobj
+10 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260913100337\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260913100337\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (\050anonymous\051)
+/Trapped /False
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000005202 00000 n 
+0000005243 00000 n 
+0000005350 00000 n 
+0000005462 00000 n 
+0000005661 00000 n 
+0000006651 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+/ID [ <3473093392d4fe5d4fdc6a13222d4b08> <3473093392d4fe5d4fdc6a13222d4b08> ]
+>>
+startxref
+6976
+%%EOF

@@ -1,0 +1,1 @@
+For purchase rows,transaction_id must be present. Accept first observed unique transaction_id;quarantine later duplicates and missing IDs. Currency must be consistent. Preserve all raw events and reasons.

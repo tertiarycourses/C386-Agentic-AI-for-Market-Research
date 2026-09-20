@@ -1,0 +1,13 @@
+{
+  "sgd_per_hour": {
+    "Northstar Learning": 60.0,
+    "Harbour Academy": 45.0,
+    "Orchid Skills": 50.0
+  },
+  "claim_ids": [
+    "C01",
+    "C02",
+    "C03"
+  ],
+  "limitation": "Fictional competitor offers;not willingness to pay"
+}

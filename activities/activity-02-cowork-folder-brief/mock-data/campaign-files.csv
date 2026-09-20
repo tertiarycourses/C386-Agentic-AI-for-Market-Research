@@ -1,0 +1,5 @@
+file_id,filename,owner,period,row_count,status
+F01,traffic.csv,analytics,2026-08,4,approved
+F02,campaign.csv,marketing,2026-08,4,approved
+F03,brand-guide.md,brand,2026-08,1,approved
+F04,external-note.md,unknown,2026-08,1,untrusted

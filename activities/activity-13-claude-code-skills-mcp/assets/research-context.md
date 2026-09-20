@@ -1,0 +1,1 @@
+Only supplied synthetic metrics may be read. Local CSV fallback is fully supported. Skills define reusable instructions;they do not grant permissions. MCP account access is optional and requires reviewed scope.

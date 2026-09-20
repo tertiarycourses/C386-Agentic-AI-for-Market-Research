@@ -1,0 +1,351 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 4933
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48 771.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL (Activity 01 \267 Evidence Registry) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 751.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (C386 \267 v1.0 \267 Synthetic training data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 739.8898 cm
+Q
+q
+1 0 0 1 48 709.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 675.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (A Singapore learning provider must decide whether to launch an evening AI marketing programme. A search) Tj T* (summary is insufficient: each demand claim needs a source, date, population and permission record.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 670.8898 cm
+Q
+q
+1 0 0 1 48 640.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Before you start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 606.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Use a copied activity folder,Claude Cowork or Claude Code as specified,and a spreadsheet or Python3 for) Tj T* (independent checks. No production credentials are needed. Product access varies;CSV fallback remains valid.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 601.8898 cm
+Q
+q
+1 0 0 1 48 571.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mock data and assets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 551.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (mock-data/sources.csv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 546.8898 cm
+Q
+q
+1 0 0 1 48 518.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (All named customers,competitors,campaigns and values are fictional. Assets include brand,source,measurement) Tj T* (and decision contracts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 513.8898 cm
+Q
+q
+1 0 0 1 48 483.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mechanism) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 449.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Classify primary/secondary and qualitative/quantitative sources; record first-party origin, time window and) Tj T* (consent; separate direct observations from interpretations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 444.8898 cm
+Q
+q
+1 0 0 1 48 402.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (Digital Marketing\222s research/strategy framing is adapted here into a decision-population-source contract:) Tj T* (customer,competitor,market and performance evidence remain separate. Agent synthesis is checked against) Tj T* (original source rows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 397.8898 cm
+Q
+q
+1 0 0 1 48 367.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Worked calculation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 347.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (Evening preference = 72 / 120 = 60%; denominator is surveyed existing learners, not the Singapore market.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 342.8898 cm
+Q
+q
+1 0 0 1 48 312.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 292.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (1. Open mock-data/sources.csv and count four records excluding the header.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 287.8898 cm
+Q
+q
+1 0 0 1 48 273.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (2. Read assets/decision-brief.md and write the decision, population and time horizon in your working note.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 268.8898 cm
+Q
+q
+1 0 0 1 48 240.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (3. Create a new Cowork task using only a copied activity folder; inspect the proposed read/write scope before) Tj T* (approving.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 235.8898 cm
+Q
+q
+1 0 0 1 48 221.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (4. Paste Prompt 1 from prompts.pdf; request the register in outputs/evidence-register.csv.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 216.8898 cm
+Q
+q
+1 0 0 1 48 202.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (5. Check that S01-S04 all appear exactly once and that no invented source is present.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 197.8898 cm
+Q
+q
+1 0 0 1 48 183.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (6. Calculate 72/120 and 36/80 independently in a spreadsheet; label both denominators.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 178.8898 cm
+Q
+q
+1 0 0 1 48 164.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (7. Ask Prompt 2 to challenge the strongest demand claim and identify missing evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 159.8898 cm
+Q
+q
+1 0 0 1 48 145.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (8. Save outputs/research-brief.md with a recommendation to collect target-population evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 140.8898 cm
+Q
+q
+1 0 0 1 48 110.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Prompt1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 62.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (Create an evidence register from sources.csv. Preserve every source_id. Separate observation, inference and) Tj T* (recommendation. State each denominator and date. Do not generalise these synthetic observations to the) Tj T* (Singapore market.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 57.88976 cm
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 917
+>>
+stream
+Gat=);/b/B&:WeDgg`:jN3E:JHeQ%S<SPFBZ6/#W#C(CXe7V/EpH'aQ\n\#UM?HiFI!>S(n%Rj:i[8YoAI\-?#p0pCjC;;p+>:#%Q9X<^Epu'0&",imZe6TSbB_2W3&#(LIQcVqq5G>UXLZiJMmT>'<9WVFGBFS=mpPqrQL@c2?i9h+]Z=G3SuU>sTVHDO[ee6<(k[!k&2jfRa/sNI^`u8]10A4j5bW>.[N[[Ake6REN0[r%3$1tJ1d]eNXL+X/j7QHo4a9[3"G..SMbb`G-Q[2F'q@'V\S.8t)C^:X*>%^3a8k)ai:\Z%[p!K&MPGAX'6Wnl9Kcg^_oBXqg2>:BD:bFK&6UYS+/^KB?A:qu$`WqQ,rS%kajY/c_^)L*L2$JG7P@kI\EFf%r><rK+a"-\iDDi[O@YuDL"pcD!!NsrTQ*[_,%tVEd%Juc%7*%elK2on&XH:4N0ZMTdBsI$H7t<-1-^QSFRm!Ms,Z2,BG5eQP=OlGkkDbXjKf6eIQbhCZe::=FiX-jg:0bBUT?:<,R--9"-WC0/\rT`.diMEZjdFl#.NPO^?s^W5Qp2a\cB,DbXN5H6E-r\J6[D?][`r$T^,KG$;dS:41k2QU$?85+.m%N;APVq^`<WQ/K4\BDj-oN+B[Gf8NX=,3o3dV<0H*^0P0aC&pMXh3K`iA9ei.h8rLn=K-j;l]HT5^9Z*&'1`L'>Cof/ZmD;MWXg3X(5'0nO6K&g+Sb!BA#`67I9P3n&fG*obeTi5e?B*gMj#>S=!W18&Y!&pF"n\4Ym9pO:RpT7`OfPQar<!bsmTn%D2k;an\//?Pp=UdI"!P<#M28MGdP^n1^*>P,N?jQ\Z=*W@CI'C`\'`D?Mb6G3G4p.*T_'?%X2A9Nd:oUT46`Kq_%e=s69b%i?-Jq1&IeX?V1'3C~>
+endstream
+endobj
+10 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260913100337\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260913100337\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (\050anonymous\051)
+/Trapped /False
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000005332 00000 n 
+0000005373 00000 n 
+0000005480 00000 n 
+0000005592 00000 n 
+0000005791 00000 n 
+0000006799 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+/ID [ <7a5840a72d37736bbb32cfeb882aba17> <7a5840a72d37736bbb32cfeb882aba17> ]
+>>
+startxref
+7124
+%%EOF

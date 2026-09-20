@@ -1,0 +1,5 @@
+event_name,trigger,required_parameter,purpose,key_event
+page_view,page loads,page_location,discovery,no
+generate_lead,successful enquiry,value,lead intent,yes
+purchase,confirmed payment,transaction_id,revenue,yes
+view_item,course detail viewed,items,consideration,no

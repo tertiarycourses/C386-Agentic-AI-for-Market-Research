@@ -1,0 +1,347 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 4786
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48 771.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL (Activity 10 \267 Lifecycle Creative from Evidence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 751.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (C386 \267 v1.0 \267 Synthetic training data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 739.8898 cm
+Q
+q
+1 0 0 1 48 709.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 661.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (A fictional email campaign targets enquiry and enrolled segments. Cowork must adapt evidence-backed) Tj T* (messages to a brand brief while preserving consent rules, avoiding fabricated urgency and producing drafts for) Tj T* (human review.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 656.8898 cm
+Q
+q
+1 0 0 1 48 626.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Before you start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 592.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Use a copied activity folder,Claude Cowork or Claude Code as specified,and a spreadsheet or Python3 for) Tj T* (independent checks. No production credentials are needed. Product access varies;CSV fallback remains valid.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 587.8898 cm
+Q
+q
+1 0 0 1 48 557.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mock data and assets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 537.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (mock-data/lifecycle.csv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 532.8898 cm
+Q
+q
+1 0 0 1 48 504.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (All named customers,competitors,campaigns and values are fictional. Assets include brand,source,measurement) Tj T* (and decision contracts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 499.8898 cm
+Q
+q
+1 0 0 1 48 469.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mechanism) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 435.8898 cm
+q
+BT 1 0 0 1 0 18 Tm 14 TL /F1 10 Tf 0 0 0 rg (Evidence brief -) Tj (> segment need -) Tj (> approved claim -) Tj (> channel/consent constraint -) Tj (> draft variant -) Tj (> human brand) Tj T* (review -) Tj (> measurement hypothesis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 430.8898 cm
+Q
+q
+1 0 0 1 48 388.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (Digital Marketing\222s email and relationship concepts plus Customer.io\222s marketer examples are adapted into) Tj T* (segment-specific claims,consent-aware drafts and a human-review status. The course does not adopt older) Tj T* (vendor FAQs as current connector mechanics.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 383.8898 cm
+Q
+q
+1 0 0 1 48 353.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Worked calculation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 319.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Click rate uses sent: 16/80=20%,12/40=30%,18/90=20%. Enrolment per sent: 5%,15%,10%; no claim of) Tj T* (incremental email impact.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 314.8898 cm
+Q
+q
+1 0 0 1 48 284.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 264.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (1. Read lifecycle.csv,assets/brand-guide.md and assets/approved-claims.csv.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 259.8898 cm
+Q
+q
+1 0 0 1 48 245.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (2. Confirm eligible and sent represent different denominators.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 240.8898 cm
+Q
+q
+1 0 0 1 48 226.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (3. Ask Cowork Prompt 1 for three evidence-linked drafts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 221.8898 cm
+Q
+q
+1 0 0 1 48 207.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (4. Calculate click and enrolment-per-sent rates.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 202.8898 cm
+Q
+q
+1 0 0 1 48 188.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (5. Check each draft against approved CL01-CL03 claims.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 183.8898 cm
+Q
+q
+1 0 0 1 48 169.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (6. Remove unsupported scarcity, promises and invented testimonials.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 164.8898 cm
+Q
+q
+1 0 0 1 48 150.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (7. Use Prompt 2 to critique tone, consent and opt-out requirements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 145.8898 cm
+Q
+q
+1 0 0 1 48 131.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (8. Save drafts and review checklist; do not connect a sending account.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 126.8898 cm
+Q
+q
+1 0 0 1 48 96.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Prompt1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 48.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (Create lifecycle email drafts for three synthetic segments using approved brand and claim assets. Include) Tj T* (claim_ids, rationale, CTA and human-review status. Do not send or invent scarcity. Calculate rates using sent,) Tj T* (with non-causal interpretation.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 924
+>>
+stream
+Gat=)95iQ=%)1n+n@/peB;^#7aJirV@+YtTlCA/KV@tPijGK+!s8,Z:RMFN8(.E`RM<'`q*i'I*q3,pXZ3'fc_8k:5OpPY&,h$E6ff/\rN?1R2iT;tN7@H\[\kMpVdG;plm-i?>...T3B#LpqYnCPI>\1eI?'R7rGk^$_WcjU#OSsq#6`>;)&,9]3,'ZARH4Fr@TgQTOMR#X`6#^%]g1$h9-a6.UF:m:XSO8Fk<([O2/>0DjdY6<6le5Hr3QP*sMD!IPcp_eO,@h0_d>gK]_d;@J9$\<G(qaq0Pd!&PkJA^E#d0F[^dfOg=L3c92[!Bc:fuk-qLa-h^-@OL-L@#P)XfrU#.7BU"1`@p)O)XQT!N%#0&L?eQ'>B4Td=p?.$dHa:_30nWsbK.P\hur&8iu[$b7"+UK&spVcFB*3kJRH2@!+3(QuX-jk:G6W:OB5ZY8\5T+n"F>_*V"#s8B%m0;[Ac_kF;]6lVds-N1TW7"o:]!j(^K=2e:,*(Oto5PbhZT*pXaS'FSY98p?3G?!?_<h\I+C#2$-'USbR'H&+i!;(JU:2*@d2jj;4?6N!GZIK^&)h(PM?BBdqFE('M@0m>S06iD@h,c8/SF7BT?S0jSbnmOJO$pW9h<@10B&/C&cC]tLq:#8V1OKOMt1T75oNIGb_4;B&17<XU9J$?2\+R7[PeKeBTKJqC88hH-mH09N65:2LR-Oe2oX9]SoU_S,:OKG#_<\]\8J:'iIoM=PI!#M:>VAbHbZ_J)_@Jk)Z.I($Al\*`sj[fTcHR%r_0W&gnNShMHhF+)=/JPS0L4']Y&4/jPsQ'#jc$fGpmn[gf>$RNSOc1UoE)S^*;.`1%b@6,Juh,4\eaoB(!-#DY]9$EmK*'j23e]qAAbDfe<\*\%?gBLHhl<E\6?id-p5Yq*ot`+4=^=$i~>
+endstream
+endobj
+10 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260913100337\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260913100337\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (\050anonymous\051)
+/Trapped /False
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000005185 00000 n 
+0000005226 00000 n 
+0000005333 00000 n 
+0000005445 00000 n 
+0000005644 00000 n 
+0000006659 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+/ID [ <09ef837313de1702caf0fb9be8dfb5ad> <09ef837313de1702caf0fb9be8dfb5ad> ]
+>>
+startxref
+6984
+%%EOF

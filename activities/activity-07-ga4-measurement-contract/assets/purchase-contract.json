@@ -1,0 +1,14 @@
+{
+  "name": "purchase",
+  "params": {
+    "transaction_id": "SYN-T001",
+    "currency": "SGD",
+    "value": 600,
+    "items": [
+      {
+        "item_id": "COURSE01",
+        "item_name": "Synthetic programme"
+      }
+    ]
+  }
+}

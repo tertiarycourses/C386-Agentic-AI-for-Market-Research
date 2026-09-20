@@ -1,0 +1,9 @@
+{
+  "margin_per_customer": {
+    "Working professionals": 300.0,
+    "Career switchers": 200.0,
+    "Team leads": 500.0
+  },
+  "total_customers": 80,
+  "retained_margin_assumption": 210.0
+}

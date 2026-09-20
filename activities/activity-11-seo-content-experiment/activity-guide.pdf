@@ -1,0 +1,350 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 4808
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48 771.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL (Activity 11 \267 SEO Content Experiment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 751.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (C386 \267 v1.0 \267 Synthetic training data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 739.8898 cm
+Q
+q
+1 0 0 1 48 709.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 661.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (A synthetic search-content export tracks impressions, clicks and enquiries. Cowork should cluster intent and) Tj T* (propose an experiment, using observed rate information without claiming an invented search ranking or) Tj T* (guaranteed AI visibility.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 656.8898 cm
+Q
+q
+1 0 0 1 48 626.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Before you start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 592.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Use a copied activity folder,Claude Cowork or Claude Code as specified,and a spreadsheet or Python3 for) Tj T* (independent checks. No production credentials are needed. Product access varies;CSV fallback remains valid.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 587.8898 cm
+Q
+q
+1 0 0 1 48 557.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mock data and assets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 537.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (mock-data/search-content.csv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 532.8898 cm
+Q
+q
+1 0 0 1 48 504.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (All named customers,competitors,campaigns and values are fictional. Assets include brand,source,measurement) Tj T* (and decision contracts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 499.8898 cm
+Q
+q
+1 0 0 1 48 469.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mechanism) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 435.8898 cm
+q
+BT 1 0 0 1 0 18 Tm 14 TL /F1 10 Tf 0 0 0 rg (Normalise query -) Tj (> classify intent -) Tj (> map page/claim -) Tj (> calculate CTR and enquiry rates -) Tj (> isolate one content) Tj T* (change -) Tj (> define control/window -) Tj (> assess uncertainty.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 430.8898 cm
+Q
+q
+1 0 0 1 48 402.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Digital Marketing\222s SEO/SEM concepts and Coupler\222s intent-to-content workflow are adapted into) Tj T* (commercial-intent hypotheses and a controlled content brief. No ranking or AI-visibility guarantee is taught.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 397.8898 cm
+Q
+q
+1 0 0 1 48 367.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Worked calculation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 333.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (CTR = clicks/impressions. Training query: 48/800=6%; enquiry/click = 6/48=12.5%. High impression volume) Tj T* (alone does not establish useful demand.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 328.8898 cm
+Q
+q
+1 0 0 1 48 298.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 278.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (1. Inspect search-content.csv and distinguish impressions,clicks,enquiries.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 273.8898 cm
+Q
+q
+1 0 0 1 48 259.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (2. Read assets/content-brief.md and approved-claims.csv.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 254.8898 cm
+Q
+q
+1 0 0 1 48 240.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (3. Ask Cowork Prompt 1 for an intent and rate table.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 235.8898 cm
+Q
+q
+1 0 0 1 48 221.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (4. Verify four CTRs and the training query\222s 12.5% enquiry/click rate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 216.8898 cm
+Q
+q
+1 0 0 1 48 202.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (5. Choose one landing-page claim or CTA change tied to commercial intent.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 197.8898 cm
+Q
+q
+1 0 0 1 48 183.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (6. Define baseline,control,outcome,window and stop rule.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 178.8898 cm
+Q
+q
+1 0 0 1 48 164.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (7. Ask Prompt 2 to list seasonality and traffic-composition confounders.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 159.8898 cm
+Q
+q
+1 0 0 1 48 145.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (8. Save intent map and experiment brief; label as a proposed test.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 140.8898 cm
+Q
+q
+1 0 0 1 48 110.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Prompt1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 62.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (Analyse the synthetic search export, calculate CTR and enquiry-per-click, cluster intent, and propose one) Tj T* (controlled content experiment. Use approved claims only. State confounders and avoid promising rankings or AI) Tj T* (visibility.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 57.88976 cm
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 910
+>>
+stream
+Gat=(gJ6Nh%"7:hr.7>;,nS/Se0dkH<4,V.fH9TXSAa5o-HmdZrd?q$=gb1Icmhp;AN\$,3QFnR;P(7FWs7MB$81aE8?ZE$5aiu:XM2O6e]HiCqBn%&^jJ=?(5q9@DTKY*IpgG5\XW$GjC0?1<s$f;/L&Qp%r7Wb?bM*B03GoK^d$rV(Hb>t"cm?A;!@";BTIUH@9o'L$%,1g>3a`C#F8VnI0+VoF3$qBL,F9eJZL`[9nIP^D2n4QK;t%Q2d%rJ8Sbk([0+TiirJ1]d.B^U8DnOoBAT!oegBT#/X&icQ9>73U%2U9(;>0:+K5^F3g\<BWQ>VB=c,4JbJ#aJ"7(uSB3dia*g9HYY%N*=?63CtNg/Zq.;D"\-.R2j1as?D@CCE%U6d@3mN#i9PO$]>/A=?!\&^UR:AQ]Lh-HtJeOE6"9]ac;!d:H\?CqS"^/5;bC*eg%.&2\K!816#ArH9mCU<9kT)1`fGK=p26U@$&l,`9^Mb*$O])*g4lGY!peu6E[/]kW]8em[-3If>6R,0h])BON1d[.qL2Y-U1>WKWhr@WZiXlh%B&PM*?q&V"5`=ZKrn:nSe"W$4L8r0:O\<UZ'<TAIbIL#Y>0!_6TkR?XYU#";P*1RO.&Y1^OkK>lGo;;@D'<E$T-As5/#d(,",Z@l_X+@*P9J6u^Bl`\>1[IM9>h>4U"/.LhlTo77S!\>;UB;g<4M)0U<!_@t=ErdtahEtX+BRAI=k!3;+BdCg896tJFi/YbmF@]2?g,;=(!dh8'BQggJL&E5r4SD%=<pU)Si]$`Ejg@D\K(+Z"*OgQ:YR"u_(m>P3tSS(HC7f]s-9OJJmm<nEEKT1SaAQ5lZZR<\>-GY&$j)aO%Y.a?^[C0(U`_DmDJWm#u4/q8AH.oAlS#2q=beZPM[*R%Lr~>
+endstream
+endobj
+10 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260913100337\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260913100337\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (\050anonymous\051)
+/Trapped /False
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000005207 00000 n 
+0000005248 00000 n 
+0000005355 00000 n 
+0000005467 00000 n 
+0000005666 00000 n 
+0000006667 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+/ID [ <ab28b8f3bce8574f2a6e81b4b2ce370d> <ab28b8f3bce8574f2a6e81b4b2ce370d> ]
+>>
+startxref
+6992
+%%EOF

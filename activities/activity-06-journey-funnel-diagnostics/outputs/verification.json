@@ -1,0 +1,16 @@
+{
+  "validated_session_counts": [
+    2400,
+    96,
+    48,
+    12
+  ],
+  "stage_rates": [
+    0.04,
+    0.5,
+    0.25
+  ],
+  "overall_rate": 0.005,
+  "row_level_order_verified": true,
+  "limitation": "Synthetic session cohort;does not establish customer motivation or causality"
+}

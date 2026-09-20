@@ -1,0 +1,1 @@
+Reserve August as holdout. Predict August from earlier months only. Compare naive and moving-average absolute error. Forecast September after evaluation. Scenario ranges are assumptions,not statistical intervals.

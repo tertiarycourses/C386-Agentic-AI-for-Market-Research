@@ -1,0 +1,351 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 4823
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48 771.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL (Activity 05 \267 Segments and Customer Value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 751.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (C386 \267 v1.0 \267 Synthetic training data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 739.8898 cm
+Q
+q
+1 0 0 1 48 709.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 661.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (A fictional programme has working professionals and career switchers. Behavioural segments should guide) Tj T* -0.072647 Tw (research questions and consented messaging, with customer value calculated using explicit margin and retention) Tj T* 0 Tw (assumptions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 656.8898 cm
+Q
+q
+1 0 0 1 48 626.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Before you start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 592.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Use a copied activity folder,Claude Cowork or Claude Code as specified,and a spreadsheet or Python3 for) Tj T* (independent checks. No production credentials are needed. Product access varies;CSV fallback remains valid.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 587.8898 cm
+Q
+q
+1 0 0 1 48 557.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mock data and assets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 537.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (mock-data/segments.csv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 532.8898 cm
+Q
+q
+1 0 0 1 48 504.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (All named customers,competitors,campaigns and values are fictional. Assets include brand,source,measurement) Tj T* (and decision contracts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 499.8898 cm
+Q
+q
+1 0 0 1 48 469.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mechanism) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 435.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Choose observable non-sensitive variables, compute group sizes and values, validate distinct needs with) Tj T* (evidence, avoid assigning personas beyond available data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 430.8898 cm
+Q
+q
+1 0 0 1 48 402.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Digital Marketing\222s consumer-behaviour and relationship framework is adapted into observed segment value plus) Tj T* (testable needs. Generated personas are hypotheses only; no demographic identity is inferred from behaviour.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 397.8898 cm
+Q
+q
+1 0 0 1 48 367.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Worked calculation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 333.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Working margin/customer = \(24000-12000\)/40 = $300. Simple one-period retained margin estimate = $300 \327 0.7) Tj T* (= $210; not lifetime value.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 328.8898 cm
+Q
+q
+1 0 0 1 48 298.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 278.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (1. Inspect segment sizes and reconcile total to 80 customers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 273.8898 cm
+Q
+q
+1 0 0 1 48 259.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (2. Read assets/persona-template.md and identify observation versus hypothesis fields.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 254.8898 cm
+Q
+q
+1 0 0 1 48 240.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (3. Ask Cowork Prompt 1 for a segment-value table.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 235.8898 cm
+Q
+q
+1 0 0 1 48 221.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (4. Calculate contribution margin independently for each row.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 216.8898 cm
+Q
+q
+1 0 0 1 48 202.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (5. Confirm $300,$200,$500 unit margins and distinguish total value from unit value.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 197.8898 cm
+Q
+q
+1 0 0 1 48 183.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (6. Draft two validation questions per segment; avoid leading questions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 178.8898 cm
+Q
+q
+1 0 0 1 48 164.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (7. Apply Prompt 2 to remove unsupported demographic assumptions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 159.8898 cm
+Q
+q
+1 0 0 1 48 145.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (8. Save the table and persona hypotheses under outputs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 140.8898 cm
+Q
+q
+1 0 0 1 48 110.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Prompt1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 62.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (Analyse synthetic segments.csv. Calculate customers and contribution margin per customer. Create) Tj T* (evidence-constrained persona hypotheses using only observed fields. Do not invent age, gender or income.) Tj T* (Label retention assumptions and propose validation questions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 57.88976 cm
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 891
+>>
+stream
+Gat=)fl#Ou&:F4Rlsj5OMW@]eTA$XQMB6FMpB,)D/Su_q.M"Q-f68Z(7N0'W@0j:BOW<f7b`4JMq8p3dW;tdmi;,'YC^QXPAFj=ARnrO&1\ruON]ZDaXB(6)cYmhf_$atd@*9.Sbt`5*:bgIa5rtr,!aU5^7Q#Yk$8t+Wo/Zr&j6(@MH1k&'Lo1#8e%X0=rO*>]NOhOI'gcE8,nh8#FJ8C7glX4^5]%3LiJe#JelXj@g4cCYeme`d(8T`19>ZZ-9<F9\YiHiF#X04b5,&IunYq-kDbLUE'6GBKThF=049@\Rl+rfOI!Fh)YM'T>"g<C<RTs3l`HWcsa]Bg6+PidcUe<+h(WddgZfR%<QV6T66>>:IM2`<TEqM"=9bN4r=K\Nfb4JihP-hie_0Mg&_CSF%;uS>rF:I)O;8^kOK:Lh5F/0&9JBF*W1_iUO<fhN@VU>k#=A2[!I1f%0(YEY:Zsu[rRO%\pAs^]k3G+VaeV26($*&Wsc9W5BC!dt+Mb%KI;S-@EM3<]VneH!\?[rl2/7JdY,ngZuk^Oa+E*+UHRD9VL-fWOR9Gb61D)Y%fK@'`7Mo$J_nVlHTY=p4**;*\W"t<m6jQ@ptXO9`\s1q(1`Ce(*\*P3q]qm;VC-T3jnYCbgd[JO5UYe38r<Vu<Xe?M7XJ:p;&/lmtVs\)g28kU7-ul09A)j/(LH)V8EV)qNGij2h'.2FNR#:"b//>Ka,PF<;(&>[]ZiA$o_=Gu(P?-06'C"52gnR"ZeY+^6(WRu'MW"WbF+)C+MdtjTZj<1t9jl_>B'5>0]s/)F+).02!Zr#D-u5I7;.aZ)Xdp86nEr;8.fS<Z7H!h#"RgqpIfkUULbmQRgMK$_+?0k-*H0R;q(O5kI.]U,@.X\]Et):~>
+endstream
+endobj
+10 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260913100337\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260913100337\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (\050anonymous\051)
+/Trapped /False
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000005222 00000 n 
+0000005263 00000 n 
+0000005370 00000 n 
+0000005482 00000 n 
+0000005681 00000 n 
+0000006663 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+/ID [ <0a67b5fe017ccfe952bcae7386d577e4> <0a67b5fe017ccfe952bcae7386d577e4> ]
+>>
+startxref
+6988
+%%EOF

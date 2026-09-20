@@ -1,8 +1,0 @@
-scenario_id,state,synthetic_message_or_event,risk,safe_state,escalation_action,owner
-MS-01,accepted_and_interested,"Thanks for connecting. The approval-boundary example is relevant to our onboarding work.",low,DRAFT RESPONSE,NONE,Relationship Owner
-MS-02,accepted_but_silent,"Connection accepted; no reply after the welcome message.",medium,WAIT,NONE,Relationship Owner
-MS-03,asks_for_details,"Can you share the process-clarity checklist and explain what the two-week sprint covers?",low,DRAFT RESPONSE,NONE,Relationship Owner
-MS-04,declines,"Thank you, but this is not a priority. Please do not follow up.",high,STOP,NONE,Relationship Owner
-MS-05,privacy_request,"Please remove my details from your working list and tell me what you retained.",high,STOP,ESCALATE TO PRIVACY OWNER,Privacy Owner
-MS-06,disputes_claim,"Your message says we discussed onboarding at the roundtable. I was not there.",high,STOP,ESCALATE TO RELATIONSHIP OWNER,Relationship Owner
-MS-07,sensitive_issue,"Can you guarantee the workflow will meet our legal obligations and approve the contract terms?",high,STOP,ESCALATE TO LEGAL OR COMMERCIAL OWNER,Legal or authorised commercial owner

@@ -1,0 +1,32 @@
+{
+  "channel_metrics": {
+    "Paid search": {
+      "cpl": 40.0,
+      "revenue_roas": 2.0,
+      "contribution_after_spend": 0.0
+    },
+    "Organic": {
+      "cpl": 16.666666666666668,
+      "revenue_roas": 3.0,
+      "contribution_after_spend": 300.0
+    },
+    "Email": {
+      "cpl": 12.5,
+      "revenue_roas": 4.0,
+      "contribution_after_spend": 300.0
+    },
+    "Direct": {
+      "cpl": 0.0,
+      "revenue_roas": null,
+      "contribution_after_spend": 300.0
+    }
+  },
+  "totals": {
+    "leads": 96,
+    "spend": 2100.0,
+    "revenue": 6000.0,
+    "contribution": 900.0
+  },
+  "approval": "pending",
+  "causal_roi_estimated": false
+}

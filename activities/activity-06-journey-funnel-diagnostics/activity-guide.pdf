@@ -1,0 +1,340 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 4827
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48 771.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Activity06 \267 Journey and Funnel Diagnostics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 751.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (C386 \267 v1.0 \267 Synthetic training data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 739.8898 cm
+Q
+q
+1 0 0 1 48 709.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 675.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (A synthetic monthly journey moves from landing sessions to enquiry, qualified lead and enrolment. The decision) Tj T* (is where to investigate friction, using stage counts with consistent cohort and window definitions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 670.8898 cm
+Q
+q
+1 0 0 1 48 640.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Before you start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 606.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Use a copied activity folder,Claude Cowork or Claude Code as specified,and a spreadsheet or Python3 for) Tj T* (independent checks. No production credentials are needed. Product access varies;CSV fallback remains valid.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 601.8898 cm
+Q
+q
+1 0 0 1 48 571.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mock data and assets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 537.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (mock-data/funnel.csv and mock-data/journey-events.csv. All values and session IDs are synthetic. Journey) Tj T* (events preserve timestamp order within the stated cohort.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 532.8898 cm
+Q
+q
+1 0 0 1 48 502.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mechanism) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 454.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (Use journey-events.csv to validate session-level ordered events in one synthetic cohort and30-day) Tj T* (window;derive the aggregate stage counts,then compute conditional and overall rates. Raw aggregate counts) Tj T* (alone do not establish a funnel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 449.8898 cm
+Q
+q
+1 0 0 1 48 421.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Digital Marketing\222s customer-experience framework is operationalised through journey stages,conditional rates) Tj T* (and friction hypotheses rather than broad journey benefits.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 416.8898 cm
+Q
+q
+1 0 0 1 48 386.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Worked calculation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 366.8898 cm
+q
+BT 1 0 0 1 0 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (Session-) Tj (>) Tj (enquiry = 96/2400 = 4%; enquiry-) Tj (>) Tj (qualified = 50%; qualified-) Tj (>) Tj (enrolment = 25%; full funnel = 0.5%.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 361.8898 cm
+Q
+q
+1 0 0 1 48 331.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 297.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (1. Read funnel.csv and mock-data/journey-events.csv. Confirm each event has a) Tj T* (session_id,event_name,timestamp and cohort.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 292.8898 cm
+Q
+q
+1 0 0 1 48 278.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (2. Write cohort, entity and window before calculating a rate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 273.8898 cm
+Q
+q
+1 0 0 1 48 259.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (3. Use Cowork Prompt 1 to create a rate table.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 254.8898 cm
+Q
+q
+1 0 0 1 48 240.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (4. Verify all three conditional rates plus the overall 0.5%.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 235.8898 cm
+Q
+q
+1 0 0 1 48 207.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (5. Run python3 validate.py to verify each later stage is a subset of the preceding stage and timestamp order is) Tj T* (valid. Raw aggregate ratios alone are insufficient.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 202.8898 cm
+Q
+q
+1 0 0 1 48 188.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (6. Ask Prompt 2 for tracking and customer-intent alternatives.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 183.8898 cm
+Q
+q
+1 0 0 1 48 169.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (7. Define one follow-up event or interview question per hypothesis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 164.8898 cm
+Q
+q
+1 0 0 1 48 150.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (8. Save funnel analysis and hypothesis note under outputs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 145.8898 cm
+Q
+q
+1 0 0 1 48 115.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Prompt1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 67.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL -0.068172 Tw (Analyse the synthetic funnel. Calculate conditional and overall rates with named denominators. Check cohort and) Tj T* 0 Tw (time-window consistency. Propose two testable friction hypotheses, including a tracking explanation; do not) Tj T* (assert causation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 62.88976 cm
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 921
+>>
+stream
+Gat=)bAQ&g&A70Vp(AK"A6"fMa=0h%TKj$)j's`![C2In+`g48rqe=5`^p8#%1E7m/947e1W*3!"^bhjQNlC>$9m:3:fagS5WQq6YkeQ2<bK%No'alG!p9)g^/up&>epe:^YlS6>[&9.\Blp/`?7=n+ottspWg.>q>dRC=FElY5PY'kHrBq[4JA05U;\A)*rWY^>,0mtKEe.CfI7UC4AsZPLKe>*W6mZ$X9d)RHLEt-d8Fdbk6'9X[8;U`[1\_3??JRU^ao7U+LjC7HpAQpj&61!_)Vs?(Mtb:6H\7j"U'2a14XRq!e/HbTs!W8nKES!$B9rEPjQg%A[bKo+S%fm`j;EeYEt."M-aFYM/<f)1>P^1/eWq!bi[HT^AN*MOi@kggq2c%*_)N#Vd*+)db0WNL8mgBYeXui&I=5XZ]m%SJ9D`/Ou?e_]-t$q3U:2\LD6k7g*EamkA0]CN1hB&83i1(O*MjVNl^__LA_[72b_N'BlT_Ee+9Z^VrsCTmm-)eShku&nOeO8J.Jatr$]r2oP-:R^ZF!^4?q5o>G60"5#MYL9%Tb$%$E$YVj_`3`nA^tOC*-pQX,Jr<s5p'=fGhX!5X.C)]"uGqO1bk<RJ-]3NSI]d@QDigOi@67$(-c4e#RJij1:._`.qW<pre(Al.RQEq,I:ds5qJlZXLTSdo<kADD4C1EhB7=M=9dS`K:*M,I1)[$t2s&g4=NWTGS*eJQYRe6n7Ta1fYbfPN\7dN`D'Hg^=]7St'*;,P6-hP9L+`lW9+Ukg9QlR]KqOW%!OF>ePGPjt^dq_#%2$A5N6hi7S,mnL/)on\Zo5,@>h3(Q(o*P,*hBH9Tr%rH4L@1L7\X\Y8O*g!Sc+?BXse85V94F*N.cmXoolWkNVaGZW>V-b9=q>a<`LdA3kbOPgF3;WfHi"CM~>
+endstream
+endobj
+10 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260913100837\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260913100837\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (\050anonymous\051)
+/Trapped /False
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000005226 00000 n 
+0000005267 00000 n 
+0000005374 00000 n 
+0000005486 00000 n 
+0000005685 00000 n 
+0000006697 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+/ID [ <785322503d85980acaa1e72552a596b2> <785322503d85980acaa1e72552a596b2> ]
+>>
+startxref
+7022
+%%EOF

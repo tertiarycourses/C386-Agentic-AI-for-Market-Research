@@ -1,0 +1,347 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 4982
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48 771.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL (Activity 14 \267 Effectiveness Decision Capstone) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 751.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (C386 \267 v1.0 \267 Synthetic training data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 739.8898 cm
+Q
+q
+1 0 0 1 48 709.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 661.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (A synthetic cross-channel campaign has spend, leads and revenue. Teams combine Cowork evidence synthesis) Tj T* -0.068172 Tw (and Claude Code calculations into a budget recommendation with attribution sensitivity, margin boundaries and a) Tj T* 0 Tw (human approval record.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 656.8898 cm
+Q
+q
+1 0 0 1 48 626.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Before you start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 592.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Use a copied activity folder,Claude Cowork or Claude Code as specified,and a spreadsheet or Python3 for) Tj T* (independent checks. No production credentials are needed. Product access varies;CSV fallback remains valid.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 587.8898 cm
+Q
+q
+1 0 0 1 48 557.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mock data and assets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 537.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (mock-data/campaigns.csv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 532.8898 cm
+Q
+q
+1 0 0 1 48 504.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (All named customers,competitors,campaigns and values are fictional. Assets include brand,source,measurement) Tj T* (and decision contracts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 499.8898 cm
+Q
+q
+1 0 0 1 48 469.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mechanism) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 435.8898 cm
+q
+BT 1 0 0 1 0 18 Tm 14 TL /F1 10 Tf 0 0 0 rg (Reconcile inputs -) Tj (> compute denominator-aware metrics -) Tj (> apply margin -) Tj (> inspect attribution -) Tj (> challenge) Tj T* (confounders -) Tj (> recommend bounded test -) Tj (> human approve -) Tj (> monitor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 430.8898 cm
+Q
+q
+1 0 0 1 48 388.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL -0.089441 Tw (Digital Marketing\222s strategy evaluation is operationalised as denominator-aware metrics,margin reconciliation and) Tj T* 0 Tw (a capped human-approved experiment. Vendor tool lists are capability prompts,not measured evidence of) Tj T* (business improvement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 383.8898 cm
+Q
+q
+1 0 0 1 48 353.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Worked calculation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 319.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Paid CPL=$1200/30=$40; revenue ROAS=2; contribution after spend=$2400\3270.5-$1200=$0. ROAS is not profit) Tj T* (or causal ROI.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 314.8898 cm
+Q
+q
+1 0 0 1 48 284.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 264.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (1. Inspect campaigns.csv and reconcile leads96,spend2100,revenue6000.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 259.8898 cm
+Q
+q
+1 0 0 1 48 245.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (2. Read assets/decision-template.md and margin-boundaries.md.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 240.8898 cm
+Q
+q
+1 0 0 1 48 226.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (3. Ask Claude Code Prompt 1 for deterministic calculations; review before running.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 221.8898 cm
+Q
+q
+1 0 0 1 48 207.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (4. Verify paid CPL40,ROAS2,contribution0 and total contribution900.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 202.8898 cm
+Q
+q
+1 0 0 1 48 188.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (5. Use Cowork to synthesise calculations with evidence from prior activities.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 183.8898 cm
+Q
+q
+1 0 0 1 48 169.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (6. Ask Prompt 2 to red-team profitability,attribution and privacy claims.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 164.8898 cm
+Q
+q
+1 0 0 1 48 150.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (7. Design a capped experiment with metric,control,window,stop rule and owner.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 145.8898 cm
+Q
+q
+1 0 0 1 48 131.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (8. Save report,budget test and approval record showing human approval pending.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 126.8898 cm
+Q
+q
+1 0 0 1 48 96.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Prompt1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 48.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (Create an evidence-linked effectiveness report from synthetic campaigns.csv and earlier activity outputs.) Tj T* (Calculate CPL, revenue ROAS and contribution after listed spend. Explain attribution and causal limits.) Tj T* (Recommend a capped test; keep approval pending and do not change or publish campaigns.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 952
+>>
+stream
+Gat=igMWKG&;KZP'Q]C/Bk:4^^r=GrRPn'o853R.^p"6O%IB6@fL_^L"4U)7b+u<ofePWNLN!/0+pduXp"uJEpq2?B<tRiA=;MOf5n*'ppq!%Z9VOb;E=/>d1e?),au:ZVYE"e/UPDFn+..)cDPMV*p=XDL3W&9?Ug8r.)l&nRc/6G8-`fOS0lR)35*+TChK`mk)T&2&hYUl<F\Sk]E"tZSBHspo@*&2u"`Pbf%QPuo8;0eX+Chd`;m39@>AYAA+DR.#SRrN%Zo)lViX(RNpD/iDHUWu@4<*]<3-AEVOD1n=1m2YTQdQJm,74ZFDrKFe$QQ1.<9JXTa#Vfr5=8^MfLf4Zmm*l^.48+%3B@R<&Ojl1X]_IC,?o44"LS`)i9WCc0aScA@?DhU[V<:&RP;56?s@*?-hA_pc^>"?n,t+sYkorXE^jZt8Zgo]ffa(Ik&>Te*J]&%?<Zi4jVq0LD/8bJl[=Ds&573\kTU<D!hG*:!kgp'HUE4]L4nEFGoB="8JfD[>sHM(n-IZtPU//\i]5A>FI:S])%#pd^UkR(/!(P/!F.TL8A]RI)Jq&_BM,8$J()HTOb&7-M0l<kle'6217B4"RS224CVt@uZ_P0s1ciQ:8^<?l0FNO&/3Jh'=E!/?jcJX:h/a<jcDdB:$Gk3F%pIj(/8;"/b6&$XCm\7IUDmf]qqa1>=$&MIVjWnslQGeE8Zo\=.lQa()g_":E=@`3Z;`Vc'K\jfcY@0p/cf8eU-_lRa^E"l/(GU"ie(GqM2pE7/"^h+@q"EZJ,=[@9e$J_:@`(^[Bi/p6'G(LG-d3=+RGtD_/=F/*HI@Mfm$8)LJYpIUR0F:2lpNX>44$2ADYh;nZ=_DK4*E2!59,SS1b<>JkfKAZdrrj)E-;MEgXGno/hK["2/IEfCN\HgSA%O>\n>e+"*Z&*""UF:u%*]+C;_9<A=4XW*(A?~>
+endstream
+endobj
+10 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260913100337\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260913100337\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (\050anonymous\051)
+/Trapped /False
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000005381 00000 n 
+0000005422 00000 n 
+0000005529 00000 n 
+0000005641 00000 n 
+0000005840 00000 n 
+0000006883 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+/ID [ <3a907e5ff4e18499584b1fc07b98776e> <3a907e5ff4e18499584b1fc07b98776e> ]
+>>
+startxref
+7208
+%%EOF

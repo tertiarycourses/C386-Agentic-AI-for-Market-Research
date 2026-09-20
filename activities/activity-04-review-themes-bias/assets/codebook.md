@@ -1,0 +1,1 @@
+Timing:schedule compatibility. Relevance:examples or content usefulness. Support:response quality. Mixed sentiment:positive and negative evidence in the same row. Keep review IDs and short quotations.

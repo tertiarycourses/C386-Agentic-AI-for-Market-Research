@@ -1,0 +1,5 @@
+journey_id,first_channel,last_channel,revenue_sgd
+J01,Paid search,Email,600
+J02,Organic search,Direct,500
+J03,Paid search,Direct,600
+J04,Email,Email,700

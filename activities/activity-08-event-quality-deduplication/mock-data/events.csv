@@ -1,0 +1,6 @@
+event_id,event_name,transaction_id,value,currency
+E01,purchase,T001,600,SGD
+E02,purchase,T001,600,SGD
+E03,purchase,T002,500,SGD
+E04,purchase,,400,SGD
+E05,generate_lead,,0,SGD

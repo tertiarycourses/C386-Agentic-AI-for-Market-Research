@@ -1,0 +1,21 @@
+{
+  "query_rates": {
+    "ai marketing course": {
+      "ctr": 0.04,
+      "enquiry_per_click": 0.1
+    },
+    "claude cowork guide": {
+      "ctr": 0.03,
+      "enquiry_per_click": 0.05
+    },
+    "market research training": {
+      "ctr": 0.06,
+      "enquiry_per_click": 0.125
+    },
+    "email segmentation examples": {
+      "ctr": 0.03,
+      "enquiry_per_click": 0.05555555555555555
+    }
+  },
+  "ranking_or_lift_guaranteed": false
+}

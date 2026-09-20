@@ -1,0 +1,34 @@
+- cowork: https://claude.com/product/cowork
+- code: https://code.claude.com/docs/en/overview
+- skills: https://code.claude.com/docs/en/skills
+- mcp: https://code.claude.com/docs/en/mcp
+- ga4: https://support.google.com/analytics/answer/9322688
+- events: https://developers.google.com/analytics/devguides/collection/ga4/reference/events
+- attribution: https://support.google.com/analytics/answer/10596866
+- ebook: Supplied reference ebooks: Digital Marketing (2024); Claude Cowork for Beginners; Claude Cowork for Business Owners; AI Strategy 2025 for Marketing Teams. Adapted concepts; no reproduced chapters.
+- cowork_support: https://support.claude.com/en/articles/13345190-get-started-with-claude-cowork
+- skill_upload: https://support.claude.com/en/articles/12512180-using-skills-in-claude
+- columbia: https://business.columbia.edu/insights/digital-future/ai/generative-ai-market-research
+- customerio: https://customer.io/learn/lifecycle-marketing/claude-cowork-for-marketers
+- coupler: https://blog.coupler.io/claude-cowork-for-marketing/
+- windsor: https://windsor.ai/marketing-analytics-in-claude-using-windsor-ai/
+- dust: https://dust.tt/blog/ai-for-market-research
+- requested_reference_1: https://hbr.org/2025/11/the-ai-tools-that-are-transforming-market-research
+- requested_reference_2: https://business.columbia.edu/insights/digital-future/ai/generative-ai-market-research
+- requested_reference_3: https://dust.tt/blog/ai-for-market-research
+- requested_reference_4: https://www.gwi.com/blog/ai-market-research-tools
+- requested_reference_5: https://www.factors.ai/blog/ai-market-research-tools
+- requested_reference_6: https://resources.rework.com/tools/ai-tools/best-ai-tools-for-market-research-2026
+- requested_reference_7: https://manus.im/playbook/market-research-tool
+- requested_reference_8: https://preuve.ai/market-research
+- requested_reference_9: https://www.cint.com/newsroom/ai-in-market-research-technology/
+- requested_reference_10: https://claude.com/product/cowork?hsLang=en
+- requested_reference_11: https://customer.io/learn/lifecycle-marketing/claude-cowork-for-marketers
+- requested_reference_12: https://blog.coupler.io/claude-cowork-for-marketing/
+- requested_reference_13: https://windsor.ai/marketing-analytics-in-claude-using-windsor-ai/
+- requested_reference_14: https://fast.io/resources/claude-ai-for-marketing-guide/
+- requested_reference_15: https://www.linkedin.com/posts/daria-cupareanu_8-ways-to-use-claude-cowork-for-marketing-activity-7468962770118397952-jzmo
+- requested_reference_16: https://videohighlight.com/v/qiqw-_6TUZ0
+- requested_reference_17: https://hiagency.au/ai-seo/claude-for-marketing/
+- requested_reference_18: https://digitalscholar.in/blog/claude-ai-for-digital-marketing/
+Reviewed13September2026. Product mechanics verified against official sources; third-party examples and ebooks are context only.

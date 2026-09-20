@@ -1,0 +1,4 @@
+segment,customers,revenue_sgd,cost_sgd,retention
+Working professionals,40,24000,12000,0.7
+Career switchers,30,15000,9000,0.5
+Team leads,10,8000,3000,0.8

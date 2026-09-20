@@ -1,0 +1,313 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 4720
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48 771.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL (Activity 13 \267 Claude Code Skills and MCP Audit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 751.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (C386 \267 v1.0 \267 Synthetic training data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 739.8898 cm
+Q
+q
+1 0 0 1 48 709.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 661.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (A reproducible research workspace stores evidence, code and review rules. A local read-only MCP connector or) Tj T* (CSV fallback supplies synthetic channel metrics; a custom Skill defines research checks without granting tools or) Tj T* (overriding permissions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 656.8898 cm
+Q
+q
+1 0 0 1 48 626.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Before you start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 592.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Use a copied activity folder,Claude Cowork or Claude Code as specified,and a spreadsheet or Python3 for) Tj T* (independent checks. No production credentials are needed. Product access varies;CSV fallback remains valid.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 587.8898 cm
+Q
+q
+1 0 0 1 48 557.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mock data and assets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 537.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (mock-data/tool-results.csv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 532.8898 cm
+Q
+q
+1 0 0 1 48 504.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (All named customers,competitors,campaigns and values are fictional. Assets include brand,source,measurement) Tj T* (and decision contracts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 499.8898 cm
+Q
+q
+1 0 0 1 48 469.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mechanism) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 435.8898 cm
+q
+BT 1 0 0 1 0 18 Tm 14 TL /F1 10 Tf 0 0 0 rg (User question -) Tj (> reviewed Skill -) Tj (> approved read-only MCP tool -) Tj (> schema validation -) Tj (> deterministic calculation) Tj T* (-) Tj (> source-linked report -) Tj (> reviewer. CSV fallback tests the same data contract.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 430.8898 cm
+Q
+q
+1 0 0 1 48 388.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (The Cowork ebooks and Coupler custom-workflow examples inform reusable instruction packaging; current) Tj T* -0.077034 Tw (Anthropic Code documentation governs Skill paths and MCP configuration. Windsor\222s analytics context motivates) Tj T* 0 Tw (currency,time-zone and grain checks before aggregation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 383.8898 cm
+Q
+q
+1 0 0 1 48 353.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Worked calculation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 319.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Lead rates: paid 5%,organic 4%,email 8%,direct 1%; total 96/2400=4%. A Skill\222s instructions do not create) Tj T* (connector access.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 314.8898 cm
+Q
+q
+1 0 0 1 48 284.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 250.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (1. Read assets/research-context.md and assets/market-evidence-audit/SKILL.md;inspect the read-only MCP) Tj T* (server source.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 245.8898 cm
+Q
+q
+1 0 0 1 48 217.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (2. Copy the activity folder to a dedicated working directory;open a terminal there and run python3 validate.py for) Tj T* (actual CSV metric checks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 212.8898 cm
+Q
+q
+1 0 0 1 48 184.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (3. Run python3 test_mcp.py. Verify actual local initialize,tools/list and tools/call responses;no live account is) Tj T* (connected.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 179.8898 cm
+Q
+q
+1 0 0 1 48 151.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (4. For Claude Code,use the current official installation and launch claude inside the copy. Place the reviewed) Tj T* (Skill under .claude/skills/market-evidence-audit/SKILL.md.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 146.8898 cm
+Q
+q
+1 0 0 1 48 104.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (5. Register the local server only after reviewing its single read-only tool: claude mcp add --transport stdio --scope) Tj T* (project synthetic-market-metrics -- python3 "$PWD/mcp_metrics_server.py". Review the project configuration) Tj T* (before approving.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 99.88976 cm
+Q
+q
+1 0 0 1 48 71.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (6. Within Claude Code,inspect /mcp and allow only read_synthetic_metrics. Submit Prompt1 and compare) Tj T* (returned source IDs M01\226M04 to the CSV.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 66.88976 cm
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1520
+>>
+stream
+GatU2?#Sa]&:D6"YqH.+<cK[?`IWRA4l6DK/d9\Wm6fbJMN1i_UlM7@F+/OM.9X+.ZVn:eiZo/Y?-_f\DG"2^deGEG6m(T6I@!jcU\TMi6"`IS#PpR_nF].PY8iMcAsdb]j4c;3i!$Qbbpe'W>[o!sM[+D#TPj\;B=bb?d%,;9[4g+58<uHl29f/_c[GAa$PM<si31bLX]2f.)kAE&eWhO=*U#qI--a0Z5<O&=)2UUeWQ83]-Hc,3.3+g+;W!]iK=9nIRf?+R+6c[jN#"HU,b5SGL9r=>`)EhE"D8RW"hpig)uZf#k;jpenIpAK]M4OOBDD4^,.@XDlN_f`=ZtblrjmUG1m(#C+GANqeODR4fZ$oWp_=)Q8s/:@._X!/BHh;ue`N8\1<5AS9\NEWnRZMZD0um7EJIoFZAAdSI`(?9WkkX-lKtWoI)+a%U16751"3Z\Z6K!_gnEWANI%:2AX!9V)+e5.\.[Eu:K$8ZbTk]\roV+VA8mZi09YrOZ$=32)-h8s-8p`t)2^0p_:kCdLY#"Gq'-B9j]WLA1%GHDJ<Sb4'X&$J@Ui4uE%kYq)I8e4:eGM^Oo_tgbm'YH)0f-ec9C-oK:)@.JN+SBhZ\!r@G$M%/L%(-nBop3&^n+tU]0c=_^iS%MkQ3.cFH?6!]F1124(#o)Ur*?&s'^=:+fD0,2[_6RF&NqI9@8p#,AN%]U>!7lm_Pa448%.oZ/C>d,o30%VWHRj:g7'>\?ngEiIV6*jMaO#Spd'GJBeXViRptdYNn03@cCa.F<21-S8.7:I;5DAuDGIXH3p?Z:@fsXpJAiN+?qs>U)0NV(GF')^m?P-%7rC,PeI#O8@[rN-Do6Mt(+Xgu2pgXsU&>i1\B$MBit=&doFRXMK$:E.jXri/D%].-I]'8SOQ1l_9&RU";JRd_[Acdi0I>"LqLHni0Q.X3)@%UKF.=E@.2f;PuR[!CM2&jVL6@J0ER4atmCML9L/8>p<mu$oFqW@-^29LfS8FU\#6X_gZnY28;\]MSOs6]:RK;_r17N>ak)RQWc3X*iFV:7V.cU(\E-:SCC"E'k;@4:tVh[cF"27P*\Ss/%Bs&8M/_OZR.M.X[NN<<RRE(9_#_qfH?8MN'.qS/.e)Snh[fCS`499lCH&C*W1I-r6>]NbdKBchV#SZNp7<lCG6B=q`^<]D2"Pgjjr.47Z;a"A`KHoW_>;P=^qVfK13?ITi:;n4"EHPU4%s;"a;eB^C&9K^)cOrai;iFID9ur5QHWWQ'!7jO-ufdS<XBcnUV,PH)&a];?//XZ3GHXD_Fhk9jlP^'BUnIWD/Vjf6FQ32u$QkGL5:VDYkjQ"Y@Q![P02L.7]f-YhFcaLA\4?2_@?LRL6/73USB!)"qlD>((mBY1:k@VmR#:@0ci.lo4S'#2l<Ah8OQpV;nA1\#lnGk)-XO\n=+Z_%[]r%SO%A"L>0$AD<e28n#Xsq[oBG3JnlQ*%uV@C5aFGQ?[l=.bdb@%QjKXEEQ3uEH^3(69EZP6YE,(rrCmf]Ti~>
+endstream
+endobj
+10 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260913100337\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260913100337\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (\050anonymous\051)
+/Trapped /False
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000005119 00000 n 
+0000005160 00000 n 
+0000005267 00000 n 
+0000005379 00000 n 
+0000005578 00000 n 
+0000007190 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+/ID [ <2cfbff97e9ca9a901f73e1f6caf06461> <2cfbff97e9ca9a901f73e1f6caf06461> ]
+>>
+startxref
+7515
+%%EOF

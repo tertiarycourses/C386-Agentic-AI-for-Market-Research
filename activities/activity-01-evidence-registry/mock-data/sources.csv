@@ -1,0 +1,5 @@
+source_id,source_type,published_date,population,sample_n,claim,confidence
+S01,customer_survey,2026-08-01,existing learners,120,72 prefer evenings,medium
+S02,sales_export,2026-08-31,enquiries,80,36 request evening,high
+S03,public_report,2025-11-01,global marketers,500,training demand rising,low
+S04,web_analytics,2026-08-31,consented sessions,2400,96 enquiry events,high

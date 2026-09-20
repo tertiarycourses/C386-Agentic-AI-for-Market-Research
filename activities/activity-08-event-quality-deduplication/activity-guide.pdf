@@ -1,0 +1,350 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 4779
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48 771.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL (Activity 08 \267 Event Quality and Deduplication) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 751.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (C386 \267 v1.0 \267 Synthetic training data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 739.8898 cm
+Q
+q
+1 0 0 1 48 709.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 675.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (A synthetic event export contains duplicate purchases and a missing transaction ID. Claude Code should create) Tj T* (a reproducible audit without silently removing evidence or treating a CSV as a live GA4 test.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 670.8898 cm
+Q
+q
+1 0 0 1 48 640.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Before you start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 606.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Use a copied activity folder,Claude Cowork or Claude Code as specified,and a spreadsheet or Python3 for) Tj T* (independent checks. No production credentials are needed. Product access varies;CSV fallback remains valid.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 601.8898 cm
+Q
+q
+1 0 0 1 48 571.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mock data and assets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 551.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (mock-data/events.csv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 546.8898 cm
+Q
+q
+1 0 0 1 48 518.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (All named customers,competitors,campaigns and values are fictional. Assets include brand,source,measurement) Tj T* (and decision contracts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 513.8898 cm
+Q
+q
+1 0 0 1 48 483.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Mechanism) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 449.8898 cm
+q
+BT 1 0 0 1 0 18 Tm 14 TL /F1 10 Tf 0 0 0 rg (Parse schema -) Tj (> isolate purchases -) Tj (> validate transaction IDs -) Tj (> group duplicates -) Tj (> reconcile value -) Tj (> emit) Tj T* (accepted and quarantined rows -) Tj (> human review.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 444.8898 cm
+Q
+q
+1 0 0 1 48 416.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (AI Strategy\222s analytics/automation discussion is adapted into a deterministic audit with raw-to-accepted) Tj T* (reconciliation; automation must retain excluded rows and reasons.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 411.8898 cm
+Q
+q
+1 0 0 1 48 381.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Worked calculation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 347.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL (Raw purchase value = 600+600+500+400 = $2100. Valid distinct transaction value = $1100; duplicate $600 and) Tj T* (missing-ID $400 are quarantined.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 342.8898 cm
+Q
+q
+1 0 0 1 48 312.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Step-by-step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 292.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (1. Inspect all five rows and mark purchase versus lead events.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 287.8898 cm
+Q
+q
+1 0 0 1 48 273.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (2. Read assets/audit-rules.md; record identity and currency rules.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 268.8898 cm
+Q
+q
+1 0 0 1 48 254.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (3. Launch Claude Code from the working copy and ask for a plan before code changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 249.8898 cm
+Q
+q
+1 0 0 1 48 235.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (4. Use Prompt 1 to request an audit script reading only mock-data/events.csv.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 230.8898 cm
+Q
+q
+1 0 0 1 48 216.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (5. Review the code for transaction_id grouping and missing-ID quarantine.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 211.8898 cm
+Q
+q
+1 0 0 1 48 197.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (6. Run the generated script locally or use the supplied validate.py baseline.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 192.8898 cm
+Q
+q
+1 0 0 1 48 178.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (7. Verify $2100 raw,$600 duplicate,$400 missing-ID,$1100 accepted.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 173.8898 cm
+Q
+q
+1 0 0 1 48 159.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (8. Save script, audit CSV and reconciliation note under outputs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 154.8898 cm
+Q
+q
+1 0 0 1 48 124.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Prompt1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 76.88976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL (Audit synthetic events.csv. Keep raw inputs unchanged. Identify duplicate transaction IDs and missing purchase) Tj T* (IDs. Produce row-level reasons and reconcile raw $2100 to valid distinct $1100. Do not deduplicate by value or) Tj T* (claim a live GA4 test.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 71.88976 cm
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 896
+>>
+stream
+Gat=)c#26#&AI`MF3#N,#dpW4UR]aX<)J!U)o'1o*ajT5lg0Z=Dr96%U')2Y6C&2Rm*<iL1ZK/^Ia\!ACOg=,I$pgm%\ZuiRLM##I_pN\Hg[a-P?ABZa_6e!e!t>q+Gg-*m.&p(OH)!FS8-,:@]DO9])6,]h72Dk.%[+,*"r;6kABc@I5cGm<ppr$G)aN.[jt<UW0R^,L!UZQ8UCgLXfpL[Au&$I;<aO6E7t:1UQ+YfAUW$@j0/Yh$*%il:;Z]D6`lGS0P&cN"CLj0?Vl&4p^b3;e%1.Ap8Sg]cjo!"*!3h[l+lKl4PX)t;@C@AjQI]RamT!](i$pBge)nuUfp`Xe.PC4`1W<gYN#^Ra.[$kVDL50@cN-)gjMghPJjUF`qbAt*N:ljQGJJRTI5QU"=[rS'F8'/]7qM$;NORd&4CR]n^VUYpHH]l->T$KX,"<&&@$.;fo!os>bl(sFL!jNdo5Um8+1fns6Ru5<Sh,*M*\+F1u$;&d`K$P^VeJY'hK"^1>hMN)m$TM"h2lUdUIc^m0"6c,[p_<B\7]d&^%C68Lk&R4*'(>..)7[.-UZs72=^Fkg8gdTKO.j:fOK5HILh%H:N7(0'FC59f*<nKW24AFmY`e=4i:#0,a^%mXQ/h<\)o8Zk/92K(Of.i'Esp6F0/4f*lNLO(-XKN=>Or\cZF%/*<$'EeJ[e'J$J/3%[0>29,c@%]s4S3i3D$hdgYHFYYhC9M[F/:!YZUUS$0!3m/!tSGPh[$leI]:?b$tp0`%iWM1Ei]'M&?SO/i@hqoe/]^[CpU$rD+I.2jLjiTW$Zrr1[OLj*T+PK=6fWFUM':+ZLi-%Jp=cltZ&EqQc-mkRjHVl<m!:\6`2'+j3_cpG.$U-6\Enr0d2LW8YT_B6d.gLV~>
+endstream
+endobj
+10 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260913100337\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260913100337\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (\050anonymous\051)
+/Trapped /False
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000005178 00000 n 
+0000005219 00000 n 
+0000005326 00000 n 
+0000005438 00000 n 
+0000005637 00000 n 
+0000006624 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+/ID [ <764e9998c65dbdb154ecf5a3e4df25de> <764e9998c65dbdb154ecf5a3e4df25de> ]
+>>
+startxref
+6949
+%%EOF

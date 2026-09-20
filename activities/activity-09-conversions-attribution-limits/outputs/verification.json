@@ -1,0 +1,13 @@
+{
+  "first_touch": {
+    "Paid search": 1200.0,
+    "Organic search": 500.0,
+    "Email": 700.0
+  },
+  "last_touch": {
+    "Email": 1300.0,
+    "Direct": 1100.0
+  },
+  "total": 2400.0,
+  "causal_lift_estimated": false
+}
