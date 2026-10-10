@@ -4,10 +4,11 @@ Use Claude Cowork and Claude Code to turn market, customer and digital marketing
 
 | Course detail | Information |
 |---|---|
-| Course code | C386 |
+| Course code | `C386` |
+| Programme | Non-WSQ |
 | Duration | 2 days / 15 hours |
 | Registration | [View course details and register](https://www.tertiarycourses.com.sg/agentic-ai-for-market-research.html) |
-| Package version | 1.0 |
+| Package version | 2.0 (10 Oct 2026) |
 
 ## About the course
 
@@ -40,6 +41,19 @@ Research questions and source quality; customer and competitor evidence; Cowork 
 12. [Activity 12: Bounded Demand Forecast](activities/activity-12-bounded-demand-forecast/README.md)
 13. [Activity 13: Claude Code Skills and Read-only MCP](activities/activity-13-claude-code-skills-mcp/README.md)
 14. [Activity 14: Marketing Effectiveness Decision Capstone](activities/activity-14-effectiveness-decision-capstone/README.md)
+
+## Courseware package
+
+- Slide deck: [PPTX](<courseware/Agentic AI for Market Research (C386)-v2.0.pptx>) and [PDF](<courseware/Agentic AI for Market Research (C386)-v2.0.pdf>)
+- Lesson Plan: [DOCX](<courseware/LP-Agentic AI for Market Research (C386).docx>) and [PDF](<courseware/LP-Agentic AI for Market Research (C386).pdf>)
+- Learner Guide: [DOCX](<courseware/LG-Agentic AI for Market Research (C386).docx>) and [PDF](<courseware/LG-Agentic AI for Market Research (C386).pdf>)
+- Activities: the `activities/` folder listed above
+
+Only the current version is published; superseded versions are archived locally.
+
+## Distribution boundary
+
+This public repository contains the courseware and activities only. Assessment materials and source references are held privately and are not published.
 
 ## Package and usage
 
